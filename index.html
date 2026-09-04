@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <title>Agentforce Quiz</title>
+
+  <link rel="stylesheet" href="./src/style.css" />
+</head>
+
+<body>
+  <header class="quiz-header">
+    <button id="champion-button" class="trail-button active" data-trail="champion">Champion</button>
+    <button id="innovator-button" class="trail-button" data-trail="innovator">Innovator</button>
+    <button id="legend-button" class="trail-button" data-trail="legend">Legend</button>
+    <button id="all-button" class="trail-button" data-trail="all">All</button>
+  </header>
+
+  <main class="quiz-container">
+    <h1 id="quiz-title">Agentforce Quiz</h1>
+
+    <div id="quiz">
+      <div id="question"></div>
+
+      <div class="navigation">
+        <button id="previous-button">
+          Prev
+        </button>
+
+        <button id="next-button">
+          Next
+        </button>
+      </div>
+    </div>
+  </main>
+
+  <script type="module" src="./src/quiz.ts"></script>
+</body>
+
+</html>

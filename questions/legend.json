@@ -1,0 +1,1126 @@
+[
+  {
+    "question": "Which type of customization is best for complex automation, like retrieving data from a third-party service as part of a prompt?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Flows"
+      },
+      {
+        "id": "b",
+        "text": "Prompts"
+      },
+      {
+        "id": "c",
+        "text": "Apex"
+      },
+      {
+        "id": "d",
+        "text": "Apps"
+      }
+    ],
+    "correctAnswer": "c"
+  },
+  {
+    "question": "What do flows allow AI agents to do?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Make changes to your Salesforce data."
+      },
+      {
+        "id": "b",
+        "text": "Repeat previously successful prompts."
+      },
+      {
+        "id": "c",
+        "text": "Designate pathways for customers to interact with the right agent."
+      },
+      {
+        "id": "d",
+        "text": "Use custom code to create advanced agent actions that you can easily deploy."
+      }
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "scenario": "Janina is an inventory manager at a large national retail chain and uses AI to predict stock needs for the upcoming holiday season. She asks the AI to first review last year’s sales data, then analyze this year’s promotions and supply chain delays, and finally project demand by category.",
+    "questions": [
+      {
+        "question": "Based on the quiz scenario, which advanced prompt engineering technique is Janina using?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Few-shot prompting"
+          },
+          {
+            "id": "b",
+            "text": "Chain-of-thought prompting"
+          },
+          {
+            "id": "c",
+            "text": "Role-based prompting"
+          },
+          {
+            "id": "d",
+            "text": "Lifecycle prompting"
+          }
+        ],
+        "correctAnswer": "b"
+      },
+      {
+        "question": "Which phase in a prompt’s lifecycle focuses on using reporting and trust features to track a prompt’s performance?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Development"
+          },
+          {
+            "id": "b",
+            "text": "Testing"
+          },
+          {
+            "id": "c",
+            "text": "Monitoring"
+          },
+          {
+            "id": "d",
+            "text": "Iteration"
+          }
+        ],
+        "correctAnswer": "c"
+      }
+    ]
+  },
+  {
+    "question": "What kind of flow variable is required by an agent action?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Record variable and text variable"
+      },
+      {
+        "id": "b",
+        "text": "Input variable"
+      },
+      {
+        "id": "c",
+        "text": "Output variable"
+      },
+      {
+        "id": "d",
+        "text": "Input variable and output variable"
+      }
+    ],
+    "correctAnswer": "d"
+  },
+  {
+    "question": "Which Get Records option should you select to limit the data going to your agent?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Automatically store all fields"
+      },
+      {
+        "id": "b",
+        "text": "Choose fields and let Salesforce do the rest"
+      },
+      {
+        "id": "c",
+        "text": "Choose fields and assign variables"
+      },
+      {
+        "id": "d",
+        "text": "Only the first record"
+      }
+    ],
+    "correctAnswer": "c"
+  },
+  {
+    "question": "What’s the goal of grounding an LLM prompt?",
+    "options": [
+      {
+        "id": "a",
+        "text": "To pre-specify the LLM’s response to the prompt"
+      },
+      {
+        "id": "b",
+        "text": "To improve the relevance and accuracy of the LLM’s response"
+      },
+      {
+        "id": "c",
+        "text": "To get a quicker response from the LLM"
+      },
+      {
+        "id": "d",
+        "text": "To get a creative response that’s more interesting even if it’s less accurate"
+      }
+    ],
+    "correctAnswer": "b"
+  },
+  {
+    "question": "When would you use RAG with an AI agent?",
+    "options": [
+      {
+        "id": "a",
+        "text": "To ground the AI agent with knowledge stored in unstructured data"
+      },
+      {
+        "id": "b",
+        "text": "To ground the AI agent with structured data"
+      },
+      {
+        "id": "c",
+        "text": "To eliminate LLM hallucinations"
+      },
+      {
+        "id": "d",
+        "text": "Never - you can’t use RAG with AI agents"
+      }
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "Which type of data is easier to integrate with Agentforce due to its predefined format?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Structured data"
+      },
+      {
+        "id": "b",
+        "text": "Open-source data"
+      },
+      {
+        "id": "c",
+        "text": "External data"
+      },
+      {
+        "id": "d",
+        "text": "Customer data"
+      }
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "What is one method used to connect Agentforce actions to Salesforce data?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Salesforce Data Loader"
+      },
+      {
+        "id": "b",
+        "text": "Open Source APIs"
+      },
+      {
+        "id": "c",
+        "text": "Flow Builder"
+      },
+      {
+        "id": "d",
+        "text": "Unstructured Data Libraries"
+      }
+    ],
+    "correctAnswer": "c"
+  },
+  {
+    "question": "Why might you want to use RAG in your prompts?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Because RAG improves the accuracy and relevance of your LLM responses."
+      },
+      {
+        "id": "b",
+        "text": "Because RAG reduces the latency of LLM responses."
+      },
+      {
+        "id": "c",
+        "text": "Because RAG verifies what the LLM already knows."
+      },
+      {
+        "id": "d",
+        "text": "Because RAG cleans the unstructured data in a knowledge store."
+      }
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "In a prompt template, what do you add to trigger RAG to search for specific information?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Data 360"
+      },
+      {
+        "id": "b",
+        "text": "Retriever"
+      },
+      {
+        "id": "c",
+        "text": "Data space"
+      },
+      {
+        "id": "d",
+        "text": "Search index"
+      }
+    ],
+    "correctAnswer": "b"
+  },
+  {
+    "question": "What is the main challenge in integrating unstructured data into AI features?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Unstructured data is buried in spreadsheets and databases."
+      },
+      {
+        "id": "b",
+        "text": "Unstructured data is harder to search but contains valuable insights."
+      },
+      {
+        "id": "c",
+        "text": "Unstructured data is less valuable than structured data."
+      },
+      {
+        "id": "d",
+        "text": "Unstructured data is not compatible with AI systems."
+      }
+    ],
+    "correctAnswer": "b"
+  },
+  {
+    "question": "When a user asks an agent a question that is connected to an Agentforce Data Library, what occurs at runtime?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The data is rechunked and reindexed."
+      },
+      {
+        "id": "b",
+        "text": "The user’s query is added to the prompt template, and the retriever fetches the most relevant data."
+      },
+      {
+        "id": "c",
+        "text": "The data stream is created."
+      },
+      {
+        "id": "d",
+        "text": "The question is sent directly to the LLM."
+      }
+    ],
+    "correctAnswer": "b"
+  },
+  {
+    "question": "What should you do to test out changes made to a data library in the Agentforce Builder workflow?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Save your configuration."
+      },
+      {
+        "id": "b",
+        "text": "Restart the preview conversation and chat with your agent."
+      },
+      {
+        "id": "c",
+        "text": "Upload new files."
+      },
+      {
+        "id": "d",
+        "text": "Log a case on your own website."
+      }
+    ],
+    "correctAnswer": "b"
+  },
+  {
+    "question": "You’re testing and want to see which sources of information your agent uses for its responses. Where can you find this?",
+    "options": [
+      {
+        "id": "a",
+        "text": "In the response itself."
+      },
+      {
+        "id": "b",
+        "text": "In the agent reasoning window."
+      },
+      {
+        "id": "c",
+        "text": "From the data library."
+      },
+      {
+        "id": "d",
+        "text": "You can’t access the information."
+      }
+    ],
+    "correctAnswer": "b"
+  },
+  {
+    "question": "How does Data 360 unify data to create a unified profile of an individual?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Customer 360 Data Model"
+      },
+      {
+        "id": "b",
+        "text": "Tableau dashboards"
+      },
+      {
+        "id": "c",
+        "text": "Identity Resolution rulesets"
+      },
+      {
+        "id": "d",
+        "text": "Data transformation"
+      }
+    ],
+    "correctAnswer": "c"
+  },
+  {
+    "question": "How can a customer act on data from Data 360 in a Customer 360 app?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ingest data from MuleSoft."
+      },
+      {
+        "id": "b",
+        "text": "Use data actions to trigger flows."
+      },
+      {
+        "id": "c",
+        "text": "Activate a segment to Journey Builder."
+      },
+      {
+        "id": "d",
+        "text": "A and B"
+      },
+      {
+        "id": "e",
+        "text": "B and C"
+      }
+    ],
+    "correctAnswer": "e"
+  },
+  {
+    "question": "Which of these answers isn’t an example of a good ethical best practice?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Use data governance features."
+      },
+      {
+        "id": "b",
+        "text": "Only collect the data you need."
+      },
+      {
+        "id": "c",
+        "text": "Give all users access to sensitive data."
+      },
+      {
+        "id": "d",
+        "text": "Respect customer opt-ins to communications."
+      }
+    ],
+    "correctAnswer": "c"
+  },
+  {
+    "question": "Which use case helps a sales rep learn more about the customer they're contacting?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Data clicks"
+      },
+      {
+        "id": "b",
+        "text": "Identity resolution"
+      },
+      {
+        "id": "c",
+        "text": "Batch insights"
+      },
+      {
+        "id": "d",
+        "text": "Data Enrichments"
+      }
+    ],
+    "correctAnswer": "d"
+  },
+  {
+    "question": "What steps do you need to follow to have access to Data 360’s robust data foundation?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Enable Data 360 by provisioning and enabling it in your org."
+      },
+      {
+        "id": "b",
+        "text": "Purchase Data 360 and email your admins to set it up."
+      },
+      {
+        "id": "c",
+        "text": "Create a Zero Copy connection to connect Agentforce to Data 360."
+      },
+      {
+        "id": "d",
+        "text": "Implement Data 360 by provisioning and enabling it, then connecting, transforming, and mapping data."
+      }
+    ],
+    "correctAnswer": "d"
+  },
+  {
+    "question": "Why is unified customer 360 data in Data 360 beneficial for agents?",
+    "options": [
+      {
+        "id": "a",
+        "text": "It restricts agents to only using structured CRM data."
+      },
+      {
+        "id": "b",
+        "text": "It enables agents to provide personalized responses that consider a customer’s actions and full context."
+      },
+      {
+        "id": "c",
+        "text": "It completely eliminates the need for data cleansing and transformation."
+      },
+      {
+        "id": "d",
+        "text": "It enables agents to offer generic responses to all customers, regardless of their history."
+      }
+    ],
+    "correctAnswer": "b"
+  },
+  {
+    "question": "What is the primary difference between using Agentforce Data Library (ADL) and fully customizable Data 360 setup for retrieval augmented generation (RAG)?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The ADL is a preconfigured, quick-start solution, while the customizable setup provides greater control over data ingestion and processing."
+      },
+      {
+        "id": "b",
+        "text": "The ADL supports zero-copy data, but the customizable setup requires a physical download of the data."
+      },
+      {
+        "id": "c",
+        "text": "The ADL supports both structured and unstructured data, but the customizable setup only supports unstructured data."
+      },
+      {
+        "id": "d",
+        "text": "The ADL can integrate data from multiple sources, while a fully customizable setup is limited to a single source."
+      }
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "Which of the following is a key feature of the Generative AI Audit and Feedback Trail, as powered by Data 360?",
+    "options": [
+      {
+        "id": "a",
+        "text": "It uses the Einstein Trust Layer to automatically correct any agent response with a low safety score."
+      },
+      {
+        "id": "b",
+        "text": "It logs feedback data, such as thumbs-up or thumbs-down reactions and a safety score for each response."
+      },
+      {
+        "id": "c",
+        "text": "It provides a live video feed of agent interactions for real-time monitoring."
+      },
+      {
+        "id": "d",
+        "text": "It provides a prebuilt dashboard to visualize marketing campaign performance and customer trends."
+      }
+    ],
+    "correctAnswer": "b"
+  },
+  {
+    "question": "Based on the NTO example, which of the following is the correct order of data preparation steps for an Agentforce project?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Create a data stream, create a search index, and then run an identity resolution ruleset."
+      },
+      {
+        "id": "b",
+        "text": "Run an identity resolution ruleset, use a batch data transform, and then create a data stream."
+      },
+      {
+        "id": "c",
+        "text": "Use a batch data transform, create a data stream, and then run an identity resolution ruleset."
+      },
+      {
+        "id": "d",
+        "text": "Create a data stream, use a batch data transform, and then run an identity resolution ruleset."
+      }
+    ],
+    "correctAnswer": "d"
+  },
+  {
+    "question": "After preparing data, what is the correct sequence of steps for creating an agent built on unified and transformed data from Data 360?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Create an agent action, create a search index, then create a prompt template."
+      },
+      {
+        "id": "b",
+        "text": "Add a topic to the agent, create a prompt template, and then create an agent action."
+      },
+      {
+        "id": "c",
+        "text": "Create a search index, create a prompt template that calls a retriever, then create an agent action that uses the prompt template."
+      },
+      {
+        "id": "d",
+        "text": "Create a prompt template, create a search index, then use the prompt in an agent action."
+      }
+    ],
+    "correctAnswer": "c"
+  },
+  {
+    "question": "What are the key components of a hybrid search index?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Vector search index and keyword search index"
+      },
+      {
+        "id": "b",
+        "text": "Vector search index, keyword search index, and the fusion ranker service"
+      },
+      {
+        "id": "c",
+        "text": "Keyword search index and a fusion ranker service"
+      },
+      {
+        "id": "d",
+        "text": "Chunks and vector embeddings"
+      }
+    ],
+    "correctAnswer": "b"
+  },
+  {
+    "question": "Which search type is the most efficient to get the best of both a semantic match and a keyword match for a search query?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Vector search"
+      },
+      {
+        "id": "b",
+        "text": "Hybrid search"
+      },
+      {
+        "id": "c",
+        "text": "Keyword search"
+      },
+      {
+        "id": "d",
+        "text": "Enriched search"
+      }
+    ],
+    "correctAnswer": "b"
+  },
+  {
+    "question": "Why is agent testing considered “probabilistic” and less predictable compared to traditional application testing?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Because agents strictly follow rules-based logic, ensuring consistent outcomes."
+      },
+      {
+        "id": "b",
+        "text": "Because the testing tools in Agentforce Builder are designed for deterministic results."
+      },
+      {
+        "id": "c",
+        "text": "Because generative AI lacks rules-based logic, leading to varied and sometimes surprising responses."
+      },
+      {
+        "id": "d",
+        "text": "Because developers intentionally introduce randomness into agent behavior."
+      }
+    ],
+    "correctAnswer": "c"
+  },
+  {
+    "question": "Where in Agentforce Builder can you see the path your agent took through the subagents, actions, and instructions to generate a response?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Settings"
+      },
+      {
+        "id": "b",
+        "text": "Subagents"
+      },
+      {
+        "id": "c",
+        "text": "The plan canvas"
+      },
+      {
+        "id": "d",
+        "text": "Conversation Preview"
+      }
+    ],
+    "correctAnswer": "c"
+  },
+  {
+    "scenario": "Maria is an Agentforce administrator at a large hotel chain, Global Stay Resorts. She’s been tasked with refining an AI agent designed to handle customer reservations. The agent has been manually tested in Agentforce Builder, and Maria is now ready to implement a more comprehensive testing strategy to ensure its reliability and accuracy before a full launch. She’s particularly focused on anticipating various user inputs and ensuring the agent’s responses align with the company’s brand voice and business processes.",
+    "questions": [
+      {
+        "question": "Based on the quiz scenario, what is the most important reason for Maria to adopt a comprehensive testing strategy before a full launch?",
+        "options": [
+          {
+            "id": "a",
+            "text": "To minimize the cost of future updates to the agent."
+          },
+          {
+            "id": "b",
+            "text": "To ensure the agent can handle an exhaustive list of known error messages."
+          },
+          {
+            "id": "c",
+            "text": "To account for the wide range of unpredictable ways users might interact with the agent."
+          },
+          {
+            "id": "d",
+            "text": "To provide a historical record of all development iterations."
+          }
+        ],
+        "correctAnswer": "c"
+      },
+      {
+        "question": "After running a batch test in Test Suites (Beta) for the Global Stay Resorts agent, Maria sees several failed tests. According to the five-step strategy, what is the next logical step Maria should take to address these failures and further improve the agent?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Immediately redeploy the agent to the production environment."
+          },
+          {
+            "id": "b",
+            "text": "Skip to the final iteration step, assuming the issue is minor."
+          },
+          {
+            "id": "c",
+            "text": "Review the test results and perform human validation to understand why the tests failed."
+          },
+          {
+            "id": "d",
+            "text": "Automatically generate a new set of test cases without reviewing the current failures."
+          }
+        ],
+        "correctAnswer": "c"
+      }
+    ]
+  },
+  {
+    "question": "Which option best describes performance testing?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Its tests cover only a specific unit of functionality."
+      },
+      {
+        "id": "b",
+        "text": "It runs the same test over and over again."
+      },
+      {
+        "id": "c",
+        "text": "It runs many tests at one time."
+      },
+      {
+        "id": "d",
+        "text": "It takes longer than manual testing."
+      }
+    ],
+    "correctAnswer": "c"
+  },
+  {
+    "question": "Which tool is best when manual testing and troubleshooting an agent?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Agentforce Builder"
+      },
+      {
+        "id": "b",
+        "text": "Agentforce Testing Center"
+      },
+      {
+        "id": "c",
+        "text": "Test Builder"
+      },
+      {
+        "id": "d",
+        "text": "Acceptance Test Center"
+      }
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "Which part of the test results does Actual Actions represent?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The expected action"
+      },
+      {
+        "id": "b",
+        "text": "Pass or fail if the actual action matched"
+      },
+      {
+        "id": "c",
+        "text": "The actions the agent ran"
+      },
+      {
+        "id": "d",
+        "text": "The subagent the agent chose"
+      }
+    ],
+    "correctAnswer": "c"
+  },
+  {
+    "question": "Agentforce Builder allows for conducting which type of testing?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Manual testing"
+      },
+      {
+        "id": "b",
+        "text": "Single action testing"
+      },
+      {
+        "id": "c",
+        "text": "Batch testing"
+      },
+      {
+        "id": "d",
+        "text": "Single subagent testing"
+      }
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "Which capability does agent observability provide that directly supports continuous improvement?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The ability to identify underperforming outcomes and implement targeted improvements based on real agent behavior."
+      },
+      {
+        "id": "b",
+        "text": "The ability to automatically fix all agent issues without direct intervention or analysis."
+      },
+      {
+        "id": "c",
+        "text": "The ability to eliminate the need for the Test phases of the Agent Development Lifecycle."
+      },
+      {
+        "id": "d",
+        "text": "The ability to monitor agents exclusively during business hours to reduce data collection costs."
+      }
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "When you measure an agent’s rate of deflections, escalations, and abandonment, what kind of metric are you using?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Agent health"
+      },
+      {
+        "id": "b",
+        "text": "Agent quality"
+      },
+      {
+        "id": "c",
+        "text": "Agent effectiveness"
+      },
+      {
+        "id": "d",
+        "text": "Agent usage"
+      }
+    ],
+    "correctAnswer": "c"
+  },
+  {
+    "question": "In Agent Analytics, where can you explore agent performance breakdowns by intents?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Dimension tabs"
+      },
+      {
+        "id": "b",
+        "text": "Table View"
+      },
+      {
+        "id": "c",
+        "text": "Performance Insights"
+      },
+      {
+        "id": "d",
+        "text": "Effectiveness metrics"
+      }
+    ],
+    "correctAnswer": "c"
+  },
+  {
+    "question": "Assume that the number of users remains the same over 2 days. If the deflection rate increased on the second day, it means that:",
+    "options": [
+      {
+        "id": "a",
+        "text": "The agent responded with too many incorrect details."
+      },
+      {
+        "id": "b",
+        "text": "More users gave up trying to get an answer."
+      },
+      {
+        "id": "c",
+        "text": "More users escalated to a support representative."
+      },
+      {
+        "id": "d",
+        "text": "The agent successfully resolved more user requests."
+      }
+    ],
+    "correctAnswer": "d"
+  },
+  {
+    "question": "You navigate to the Sessions & Intents page and notice some sessions are labeled as “Unprocessed.” What does this mean?",
+    "options": [
+      {
+        "id": "a",
+        "text": "These sessions have failed quality score evaluation and need manual review."
+      },
+      {
+        "id": "b",
+        "text": "These sessions are still active or recently closed and haven’t been fully processed by the intent and clustering pipelines."
+      },
+      {
+        "id": "c",
+        "text": "These sessions were abandoned by users before the agent could respond."
+      },
+      {
+        "id": "d",
+        "text": "These sessions contain errors that prevented the agent from completing the conversation."
+      }
+    ],
+    "correctAnswer": "b"
+  },
+  {
+    "question": "While reviewing the Trace tab for a session, you want to understand why the agent failed to book an excursion. What information can you find in the trace?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The sequence of actions the agent attempted, the inputs provided to each action, and the outputs returned."
+      },
+      {
+        "id": "b",
+        "text": "The user’s demographic information and purchase history."
+      },
+      {
+        "id": "c",
+        "text": "A summary of all other sessions from the same user."
+      },
+      {
+        "id": "d",
+        "text": "Suggestions for how to optimize the agent's response time."
+      }
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "Where does a Slack user go to browse the agents available to them?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Agentforce Builder"
+      },
+      {
+        "id": "b",
+        "text": "Slack Home tab"
+      },
+      {
+        "id": "c",
+        "text": "Slack Agentforce Hub"
+      },
+      {
+        "id": "d",
+        "text": "Salesforce agent setup"
+      }
+    ],
+    "correctAnswer": "c"
+  },
+  {
+    "question": "An employee asks the HR agent in Slack about their benefits this year. What action is needed for the agent to interact with the employee?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Send a direct message (DM)."
+      },
+      {
+        "id": "b",
+        "text": "Create a Slack canvas."
+      },
+      {
+        "id": "c",
+        "text": "Build a Slack app."
+      },
+      {
+        "id": "d",
+        "text": "Add a case comment."
+      }
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "What is required to make calls to the Agent API?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Create an external client app."
+      },
+      {
+        "id": "b",
+        "text": "Enable OAuth settings."
+      },
+      {
+        "id": "c",
+        "text": "Obtain the consumer key and consumer secret."
+      },
+      {
+        "id": "d",
+        "text": "Configure a new model."
+      },
+      {
+        "id": "e",
+        "text": "‌A, B, and C"
+      }
+    ],
+    "correctAnswer": "e"
+  },
+  {
+    "question": "True or false: The Agent API supports both synchronous and streaming message handling.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True"
+      },
+      {
+        "id": "b",
+        "text": "False"
+      }
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "Which of the following is the best use case for the Models API?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A general-purpose AI chatbot grounded in your org’s data"
+      },
+      {
+        "id": "b",
+        "text": "An automated service agent for addressing and escalatinjg customer service scenarios"
+      },
+      {
+        "id": "c",
+        "text": "An AI dashboard with custom UI and external API integration"
+      },
+      {
+        "id": "d",
+        "text": "A search service that identifies results that satisfy a search query"
+      }
+    ],
+    "correctAnswer": "c"
+  },
+  {
+    "question": "The Models API supports embedding models in addition to LLMs.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True"
+      },
+      {
+        "id": "b",
+        "text": "False"
+      }
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "Ada plans to share a recap of important Agentforce foundational concepts with her team. Which of the following concepts should she highlight in her recap?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Agent Tester, Merge Fields, and Cloud Connection"
+      },
+      {
+        "id": "b",
+        "text": "AI Models, Agent Action Center, and Prompt Workspaces"
+      },
+      {
+        "id": "c",
+        "text": "Test Agents, Deployed Agents, and Agent Planning"
+      },
+      {
+        "id": "d",
+        "text": "Prompt Builder, the Einstein Trust Layer, and Data 360 Integration"
+      }
+    ],
+    "correctAnswer": "d"
+  },
+  {
+    "question": "Your team is rolling out a new Sales Coach agent, and you’ve been tasked with helping sellers make the most of their AI assistance. How can a Sales Coach agent help improve efficiency and customer experiences?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A Sales Coach agent can take over the pitch if it determines a customer would respond better to an AI."
+      },
+      {
+        "id": "b",
+        "text": "Real-time feedback with realistic objections and tips can reduce the time and stress it takes to close deals while building skills for sellers."
+      },
+      {
+        "id": "c",
+        "text": "Sales Coach agents analyze all possible pitches and suggest the best one based on data."
+      },
+      {
+        "id": "d",
+        "text": "A Sales Coach agent continuously surfaces potential selling points during conversation, ensuring that sellers can pivot quickly."
+      }
+    ],
+    "correctAnswer": "b"
+  },
+  {
+    "question": "As your use cases get more complex, customization will be key to making the most of your agents. What are the three main ways to customize agents in Agentforce?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Customization Hub, Agent Templates, and Agent Coding"
+      },
+      {
+        "id": "b",
+        "text": "Agentforce Planning Home, Setup, and Platform Studio"
+      },
+      {
+        "id": "c",
+        "text": "Apex, Prompts, and Flows"
+      },
+      {
+        "id": "d",
+        "text": "Einstein Edit, AgentExchange, and IdeaStudio"
+      }
+    ],
+    "correctAnswer": "c"
+  }
+]

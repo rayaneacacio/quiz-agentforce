@@ -1,0 +1,1594 @@
+[
+  {
+    "question": "What are the two approaches recommended for building an AI strategy?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Top-down and bottom-up"
+      },
+      {
+        "id": "b",
+        "text": "Inside-out and outside-in"
+      },
+      {
+        "id": "c",
+        "text": "Horizontal and vertical"
+      },
+      {
+        "id": "d",
+        "text": "Internal and external"
+      }
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "What's the first step in defining a shared AI vision for your company?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Define pilot projects."
+      },
+      {
+        "id": "b",
+        "text": "Secure project funding."
+      },
+      {
+        "id": "c",
+        "text": "Establish business goals."
+      },
+      {
+        "id": "d",
+        "text": "Align on AI ambitions."
+      }
+    ],
+    "correctAnswer": "d"
+  },
+  {
+    "question": "Why is it important to inventory your usage of AI tools and technologies?",
+    "options": [
+      {
+        "id": "a",
+        "text": "To gain buy-in from stakeholders"
+      },
+      {
+        "id": "b",
+        "text": "To get a complete view of your organization’s AI risks"
+      },
+      {
+        "id": "c",
+        "text": "To identify employees who use unauthorized tools"
+      },
+      {
+        "id": "d",
+        "text": "To show investors your commitment to innovation"
+      }
+    ],
+    "correctAnswer": "b"
+  },
+  {
+    "question": "When evaluating an organization's AI risks, what is a crucial reason to assess the potential impact and the likelihood of each identified risk?",
+    "options": [
+      {
+        "id": "a",
+        "text": "To determine if the AI system should be immediately decommissioned."
+      },
+      {
+        "id": "b",
+        "text": "To comply with internal financial auditing standards."
+      },
+      {
+        "id": "c",
+        "text": "To identify areas for immediate investment in new AI technologies."
+      },
+      {
+        "id": "d",
+        "text": "To effectively prioritize the risks."
+      }
+    ],
+    "correctAnswer": "d"
+  },
+  {
+    "question": "What’s the most important factor to consider when deciding which AI use cases to pursue?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Customer feedback"
+      },
+      {
+        "id": "b",
+        "text": "AI maturity"
+      },
+      {
+        "id": "c",
+        "text": "Business value"
+      },
+      {
+        "id": "d",
+        "text": "Market trends"
+      }
+    ],
+    "correctAnswer": "c"
+  },
+  {
+    "question": "If you’re relatively new to AI, which use cases should you prioritize?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Low-value, low-effort use cases"
+      },
+      {
+        "id": "b",
+        "text": "High-value, low-effort use cases"
+      },
+      {
+        "id": "c",
+        "text": "Low-value, high-effort use cases"
+      },
+      {
+        "id": "d",
+        "text": "High-value, high-effort use cases"
+      }
+    ],
+    "correctAnswer": "b"
+  },
+  {
+    "question": "What’s the executive sponsor responsible for in an AI project?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Building the AI solution"
+      },
+      {
+        "id": "b",
+        "text": "Managing the end users affected by the AI project"
+      },
+      {
+        "id": "c",
+        "text": "Ensuring that the AI project is ethical and secure and that it uses customer data legally."
+      },
+      {
+        "id": "d",
+        "text": "Allocating resources and prioritizing the AI project."
+      }
+    ],
+    "correctAnswer": "d"
+  },
+  {
+    "question": "When should you build a trust strategy?",
+    "options": [
+      {
+        "id": "a",
+        "text": "During the Ideate stage"
+      },
+      {
+        "id": "b",
+        "text": "During the Build and test stage"
+      },
+      {
+        "id": "c",
+        "text": "During the Deploy stage"
+      },
+      {
+        "id": "d",
+        "text": "After the Deploy stage"
+      }
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "If you have too much data to clean, what should you do?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Delete half of the data."
+      },
+      {
+        "id": "b",
+        "text": "Start with high priority data"
+      },
+      {
+        "id": "c",
+        "text": "Clean only the most recent data."
+      },
+      {
+        "id": "d",
+        "text": "Don’t clean the data."
+      }
+    ],
+    "correctAnswer": "b"
+  },
+  {
+    "question": "Why is it important to establish data governance in an AI project?",
+    "options": [
+      {
+        "id": "a",
+        "text": "To increase the amount of data for the project"
+      },
+      {
+        "id": "b",
+        "text": "To ensure that all data is updated in real-time"
+      },
+      {
+        "id": "c",
+        "text": "To ensure that data is secure"
+      },
+      {
+        "id": "d",
+        "text": "To determine what AI project to develop next"
+      }
+    ],
+    "correctAnswer": "c"
+  },
+  {
+    "question": "What are the three main risk areas to consider when creating a risk profile?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Toxicity, bias, technical attacks"
+      },
+      {
+        "id": "b",
+        "text": "Data leaks, regulatory requirements, reputation harm"
+      },
+      {
+        "id": "c",
+        "text": "Security guardrails, ethical guardrails, technical guardrails"
+      },
+      {
+        "id": "d",
+        "text": "Data masking, secure data retrieval, prompt defense"
+      }
+    ],
+    "correctAnswer": "b"
+  },
+  {
+    "question": "Which guardrails protect against data leaks?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Toxicity detection"
+      },
+      {
+        "id": "b",
+        "text": "Prompt defense"
+      },
+      {
+        "id": "c",
+        "text": "Audit trail"
+      },
+      {
+        "id": "d",
+        "text": "Data masking"
+      }
+    ],
+    "correctAnswer": "d"
+  },
+  {
+    "question": "Which of these factors can contribute to a successful autonomous AI use case?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The work involves well-defined policies, rules, and constraints that the AI agent can follow alone."
+      },
+      {
+        "id": "b",
+        "text": "The tasks require moral complexity and deep emotional intelligence."
+      },
+      {
+        "id": "c",
+        "text": "There’s a large quantity of data, but the data is incomplete."
+      },
+      {
+        "id": "d",
+        "text": "The work involves high-stakes decisions with little room for error."
+      }
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "Why is it a good idea to start with a limited scope for your autonomous AI use case?",
+    "options": [
+      {
+        "id": "a",
+        "text": "It eliminates the need for any testing or validation."
+      },
+      {
+        "id": "b",
+        "text": "It makes the AI more sophisticated and complex from the very beginning."
+      },
+      {
+        "id": "c",
+        "text": "All AI use cases should have a limited scope."
+      },
+      {
+        "id": "d",
+        "text": "It helps validate your assumptions, demonstrate value, manage the level of risk, and plan for scale."
+      }
+    ],
+    "correctAnswer": "d"
+  },
+  {
+    "question": "Why might an organization escalate a conversation from the AI agent to a live service rep?",
+    "options": [
+      {
+        "id": "a",
+        "text": "To increase the case handling time"
+      },
+      {
+        "id": "b",
+        "text": "To comply with regulations or company policy"
+      },
+      {
+        "id": "c",
+        "text": "To increase the AI model’s training speed"
+      },
+      {
+        "id": "d",
+        "text": "To avoid collecting customer feedback"
+      }
+    ],
+    "correctAnswer": "b"
+  },
+  {
+    "question": "Which of these statements is true about the default access and permissions of an AI agent in a Salesforce org?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The AI agent automatically has access to all the objects and fields affected by the agent’s actions."
+      },
+      {
+        "id": "b",
+        "text": "The AI agent has the same permissions as a system admin."
+      },
+      {
+        "id": "c",
+        "text": "The AI agent has very limited permissions by default, and you must explicitly grant access to the data it needs to do its job."
+      },
+      {
+        "id": "d",
+        "text": "It’s not possible to edit the permissions of the AI agent."
+      }
+    ],
+    "correctAnswer": "c"
+  },
+  {
+    "question": "True or false: Technology guardrails alone are sufficient for ensuring the safety of an AI agent.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True"
+      },
+      {
+        "id": "b",
+        "text": "False"
+      }
+    ],
+    "correctAnswer": "b"
+  },
+  {
+    "question": "What framework is helpful for evaluating the risks and concerns for an autonomous AI use case?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Corporation, Competition, and Customers"
+      },
+      {
+        "id": "b",
+        "text": "Strengths, Weaknesses, Opportunities, and Threats"
+      },
+      {
+        "id": "c",
+        "text": "Structures, Strategy, Skills, and Systems"
+      },
+      {
+        "id": "d",
+        "text": "People, Business, Technology, and Data"
+      }
+    ],
+    "correctAnswer": "d"
+  },
+  {
+    "question": "What is process mapping?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A visual representation of the steps in a business process, showing how it's done from start to finish"
+      },
+      {
+        "id": "b",
+        "text": "A detailed report on the financial performance of a business process"
+      },
+      {
+        "id": "c",
+        "text": "A software tool used to automate business processes without human intervention"
+      },
+      {
+        "id": "d",
+        "text": "A method for assigning tasks to employees"
+      }
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "Which of these statements is true about defining your business processes for an AI agent?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Defining business processes is only necessary for legal compliance, not for AI configuration."
+      },
+      {
+        "id": "b",
+        "text": "AI agents perform better when they are given vague instructions about business processes and have to improvise."
+      },
+      {
+        "id": "c",
+        "text": "If you can’t define your business processes, it’s hard to configure an AI to do the work."
+      },
+      {
+        "id": "d",
+        "text": "AI agents can figure out business processes without any human input."
+      }
+    ],
+    "correctAnswer": "c"
+  },
+  {
+    "question": "Which part of a subagent contains both natural language prompts and programmatic logic?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Name"
+      },
+      {
+        "id": "b",
+        "text": "Description"
+      },
+      {
+        "id": "c",
+        "text": "Instructions"
+      },
+      {
+        "id": "d",
+        "text": "Custom Action"
+      }
+    ],
+    "correctAnswer": "c"
+  },
+  {
+    "question": "How would you describe a reference action that produces a consistent output every time it runs?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Atomic"
+      },
+      {
+        "id": "b",
+        "text": "Deterministic"
+      },
+      {
+        "id": "c",
+        "text": "Composite"
+      },
+      {
+        "id": "d",
+        "text": "Prompt-Based"
+      }
+    ],
+    "correctAnswer": "b"
+  },
+  {
+    "question": "Which of these is a key limitation of rule-based, scripted interaction systems, like traditional phone trees and basic chatbots?",
+    "options": [
+      {
+        "id": "a",
+        "text": "They rely on large language models to generate responses."
+      },
+      {
+        "id": "b",
+        "text": "They can only function when a human copilot is available to assist."
+      },
+      {
+        "id": "c",
+        "text": "They require autonomous agents to select the appropriate tools and actions."
+      },
+      {
+        "id": "d",
+        "text": "They follow a rigid, predefined path and reach a dead-end when users veer off script."
+      }
+    ],
+    "correctAnswer": "d"
+  },
+  {
+    "question": "Which of these is an example of an intent failure?",
+    "options": [
+      {
+        "id": "a",
+        "text": "An agent hallucinates a resort package option that doesn’t exist when asked about deals."
+      },
+      {
+        "id": "b",
+        "text": "A user wants to cancel an order and is offered information on cancellation policies instead."
+      },
+      {
+        "id": "c",
+        "text": "An agent refuses to respond after a user expresses negative sentiment."
+      },
+      {
+        "id": "d",
+        "text": "An agent violates company policy in order to encourage positive sentiment in a user."
+      }
+    ],
+    "correctAnswer": "b"
+  },
+  {
+    "question": "A user interacts with an agent that provides a correct answer but fails to explain how it reached that conclusion or what sources it used. According to the pillars of trusted behavior, which area needs improvement to reduce user anxiety?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Respect"
+      },
+      {
+        "id": "b",
+        "text": "Context Awareness"
+      },
+      {
+        "id": "c",
+        "text": "Clarity"
+      },
+      {
+        "id": "d",
+        "text": "Scalability"
+      }
+    ],
+    "correctAnswer": "c"
+  },
+  {
+    "question": "When should an agent-to-human hand-off be prioritized to maintain a respectful and smooth user experience?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Whenever the agent is asked a simple Yes/No question to save the agent’s processing power."
+      },
+      {
+        "id": "b",
+        "text": "When the user’s sentiment becomes highly negative or the task requires human-level permissions."
+      },
+      {
+        "id": "c",
+        "text": "Only when the agent encounters a technical loop error that prevents it from responding."
+      },
+      {
+        "id": "d",
+        "text": "When the agent needs to cite a warranty policy or a knowledge base article."
+      }
+    ],
+    "correctAnswer": "b"
+  },
+  {
+    "question": "An agent correctly identifies that it doesn’t have access to a specific database and provides a link to a dashboard where the user can find the information manually. The user reports that the agent doesn’t work. How should an admin categorize this feedback?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A system crash that requires a technical reboot of the Agentforce layer"
+      },
+      {
+        "id": "b",
+        "text": "A successful technical interaction that resulted in a failed user experience"
+      },
+      {
+        "id": "c",
+        "text": "A P0 System Failure because the agent should always produce an answer to satisfy the user"
+      },
+      {
+        "id": "d",
+        "text": "A successful user experience because the agent followed its security protocols perfectly and directed the user to a resource"
+      }
+    ],
+    "correctAnswer": "b"
+  },
+  {
+    "question": "A Sales Operations agent is functional and accurate, but it provides a 500-word explanation for a simple data request, forcing the user to scroll and hunt for the actual number. According to the Failure Points Taxonomy, what is the priority level or tier of this issue?",
+    "options": [
+      {
+        "id": "a",
+        "text": "P0: System Failure"
+      },
+      {
+        "id": "b",
+        "text": "P1: User Intent Not Met"
+      },
+      {
+        "id": "c",
+        "text": "P2: Limited Value"
+      },
+      {
+        "id": "d",
+        "text": "P3: Operational Success"
+      }
+    ],
+    "correctAnswer": "c"
+  },
+  {
+    "question": "What role do evaluations play in agent behavior design?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Targeted evaluations help designers triage and prioritize interventions that achieve a user’s intent."
+      },
+      {
+        "id": "b",
+        "text": "Evaluations of existing agents help designers build new ones that won’t repeat the same errors."
+      },
+      {
+        "id": "c",
+        "text": "Evaluations give users an opportunity for direct feedback on their experiences."
+      },
+      {
+        "id": "d",
+        "text": "Designers can use evaluations to have agents assess their own responses and reflect on ways to improve them."
+      }
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "After heuristics are evaluated, how should a designer score the overall log of an agent conversation?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Average all heuristics scored for a final priority mapping"
+      },
+      {
+        "id": "b",
+        "text": "Subjectively assess which heuristic is most important based on user intent."
+      },
+      {
+        "id": "c",
+        "text": "Conversations are only evaluated in terms of individual heuristics."
+      },
+      {
+        "id": "d",
+        "text": "The final priority is assessed based on the most severe failure, regardless of other heuristics."
+      }
+    ],
+    "correctAnswer": "d"
+  },
+  {
+    "question": "What key risk is associated with agentic AI?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Variability in task performance"
+      },
+      {
+        "id": "b",
+        "text": "Unexpected behavior and unintended consequences"
+      },
+      {
+        "id": "c",
+        "text": "Changes in user interaction patterns"
+      },
+      {
+        "id": "d",
+        "text": "Fluctuations in data processing accuracy"
+      }
+    ],
+    "correctAnswer": "b"
+  },
+  {
+    "question": "Which of these principles are part of the guiding principles of responsible agentic AI?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Accuracy"
+      },
+      {
+        "id": "b",
+        "text": "Safety"
+      },
+      {
+        "id": "c",
+        "text": "Profitability"
+      },
+      {
+        "id": "d",
+        "text": "A and B"
+      },
+      {
+        "id": "e",
+        "text": "A and C"
+      }
+    ],
+    "correctAnswer": "d"
+  },
+  {
+    "question": "How can you adjust the agent’s behavior in Agentforce?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Modify the agent’s code directly."
+      },
+      {
+        "id": "b",
+        "text": "Change the agent’s name and profile picture."
+      },
+      {
+        "id": "c",
+        "text": "Adjust topic instructions and actions."
+      },
+      {
+        "id": "d",
+        "text": "Alter the agent’s voice and tone."
+      }
+    ],
+    "correctAnswer": "c"
+  },
+  {
+    "question": "True or false: Topic classification is used to map user inputs to specific topics.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True"
+      },
+      {
+        "id": "b",
+        "text": "False"
+      }
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "How does Salesforce approach red-teaming for its AI products?",
+    "options": [
+      {
+        "id": "a",
+        "text": "By focusing only on manual testing"
+      },
+      {
+        "id": "b",
+        "text": "By using both manual and automated red-teaming methods"
+      },
+      {
+        "id": "c",
+        "text": "By conducting tests once a year"
+      },
+      {
+        "id": "d",
+        "text": "By relying solely on external experts"
+      }
+    ],
+    "correctAnswer": "b"
+  },
+  {
+    "question": "True or false: Continuous improvement and innovation are crucial for maintaining the integrity of AI systems.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True"
+      },
+      {
+        "id": "b",
+        "text": "False"
+      }
+    ],
+    "correctAnswer": "b"
+  },
+  {
+    "question": "Which of the following describes a common risk that affects how an AI agent operates?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Display theme changes that cause the interface to use a different color palette"
+      },
+      {
+        "id": "b",
+        "text": "Memory poisoning that causes an agent to act on false context"
+      },
+      {
+        "id": "c",
+        "text": "File-naming inconsistencies that cause documents to sort alphabetically out of order"
+      },
+      {
+        "id": "d",
+        "text": "Increased network bandwidth usage that causes temporary congestion"
+      }
+    ],
+    "correctAnswer": "b"
+  },
+  {
+    "question": "Which of the following risks can give an agent broader access than intended, letting it perform high-risk actions?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Privilege compromise"
+      },
+      {
+        "id": "b",
+        "text": "Cascading hallucinations"
+      },
+      {
+        "id": "c",
+        "text": "Overwhelming human-in-the-loop"
+      },
+      {
+        "id": "d",
+        "text": "Tool misuse"
+      }
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "In a business workflow, an agent connects with an API. What type of interaction is this?",
+    "options": [
+      {
+        "id": "a",
+        "text": "People"
+      },
+      {
+        "id": "b",
+        "text": "Data"
+      },
+      {
+        "id": "c",
+        "text": "System"
+      },
+      {
+        "id": "d",
+        "text": "Culture"
+      }
+    ],
+    "correctAnswer": "c"
+  },
+  {
+    "question": "Which scenario demonstrates the use of threat modeling to reduce an AI agent risk?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Spotting a color change that causes the interface to look brighter, then switching themes"
+      },
+      {
+        "id": "b",
+        "text": "Checking an icon update that causes menus to look different, then restoring the old icons"
+      },
+      {
+        "id": "c",
+        "text": "Identifying over-permissive access that causes an agent to reach data it shouldn’t, then removing unnecessary permissions"
+      },
+      {
+        "id": "d",
+        "text": "Noticing a sound change that causes alerts to play louder, then lowering the volume"
+      }
+    ],
+    "correctAnswer": "c"
+  },
+  {
+    "question": "Where can you deploy employee agents?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Email"
+      },
+      {
+        "id": "b",
+        "text": "Slack"
+      },
+      {
+        "id": "c",
+        "text": "Facebook"
+      },
+      {
+        "id": "d",
+        "text": "WhatsApp"
+      }
+    ],
+    "correctAnswer": "b"
+  },
+  {
+    "question": "What should you do after deploying an agent from sandbox to production?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Deactivate the agent, and create a new version."
+      },
+      {
+        "id": "b",
+        "text": "Validate that the agent’s metadata and its permissions are correct."
+      },
+      {
+        "id": "c",
+        "text": "Disable ‌event logs."
+      },
+      {
+        "id": "d",
+        "text": "Add more topics to the agent."
+      }
+    ],
+    "correctAnswer": "b"
+  },
+  {
+    "question": "What’s the primary function of Agentforce Voice?",
+    "options": [
+      {
+        "id": "a",
+        "text": "To manage customer billing"
+      },
+      {
+        "id": "b",
+        "text": "To enable AI agents to understand and speak with customers"
+      },
+      {
+        "id": "c",
+        "text": "To create marketing campaigns"
+      },
+      {
+        "id": "d",
+        "text": "To schedule appointments"
+      }
+    ],
+    "correctAnswer": "b"
+  },
+  {
+    "question": "When comparing telephony options, what’s a primary advantage of Salesforce Voice (Native Telephony) regarding context preservation?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Data is split between multiple systems for redundancy."
+      },
+      {
+        "id": "b",
+        "text": "Transcripts are only created once a customer representative joins the call."
+      },
+      {
+        "id": "c",
+        "text": "A complete, single record is maintained, including the full conversation transcript from beginning to end."
+      },
+      {
+        "id": "d",
+        "text": "Context is intentionally cleared during handoffs to protect privacy."
+      }
+    ],
+    "correctAnswer": "c"
+  },
+  {
+    "question": "Which specific template should you select when creating a new agent intended to handle inbound customer service calls?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Agentforce Service Agent"
+      },
+      {
+        "id": "b",
+        "text": "Agentforce Sales Agent"
+      },
+      {
+        "id": "c",
+        "text": "Telephony Routing Agent"
+      },
+      {
+        "id": "d",
+        "text": "Empty Agent Shell"
+      }
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "What tool can be used to ensure the agent correctly pronounces unique company terminology?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Key-term prompting"
+      },
+      {
+        "id": "b",
+        "text": "Similarity slider"
+      },
+      {
+        "id": "c",
+        "text": "Stability slider"
+      },
+      {
+        "id": "d",
+        "text": "Pronunciation dictionary"
+      }
+    ],
+    "correctAnswer": "d"
+  },
+  {
+    "question": "When creating a new Omni-Channel flow to route voice calls, which specific resource must be created to store the voice call record ID?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A formula resource named Call\\_ID with a Number output"
+      },
+      {
+        "id": "b",
+        "text": "A variable with the API Name recordId and Data Type “Text”"
+      },
+      {
+        "id": "c",
+        "text": "A constant value representing the Service Channel ID"
+      },
+      {
+        "id": "d",
+        "text": "A collection variable to store multiple call IDs"
+      }
+    ],
+    "correctAnswer": "b"
+  },
+  {
+    "question": "A customer is implementing an Inbound Voice Routing flow but notices that calls are not being directed to the Agentforce service agent. What’s a common prerequisite in the Setup menu that must be completed before the flow can be linked to a phone number?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A Screen Pop action must be added to the flow before it can be activated."
+      },
+      {
+        "id": "b",
+        "text": "The flow must be converted into a Record-Triggered Flow to detect new VoiceCall records."
+      },
+      {
+        "id": "c",
+        "text": "The recordId variable must be changed from Text to Record data type."
+      },
+      {
+        "id": "d",
+        "text": "The flow must be mapped within the specific Voice Channel settings under Communication Channels."
+      }
+    ],
+    "correctAnswer": "d"
+  },
+  {
+    "question": "What is Salesforce Headless 360?",
+    "options": [
+      {
+        "id": "a",
+        "text": "It’s a new standalone database for AI agents."
+      },
+      {
+        "id": "b",
+        "text": "It’s a proprietary gateway for external systems."
+      },
+      {
+        "id": "c",
+        "text": "It provides one platform that works anywhere humans and agents work."
+      },
+      {
+        "id": "d",
+        "text": "It’s a complete replacement for the Lightning Experience UI."
+      }
+    ],
+    "correctAnswer": "c"
+  },
+  {
+    "question": "How does Headless 360 drive adoption and reach for business users?",
+    "options": [
+      {
+        "id": "a",
+        "text": "It requires all users to undergo extensive training in the Lightning UI."
+      },
+      {
+        "id": "b",
+        "text": "It brings workflows directly to the surfaces users already use, like Slack and Microsoft Teams."
+      },
+      {
+        "id": "c",
+        "text": "It requires business users to learn how to write code to access their data."
+      },
+      {
+        "id": "d",
+        "text": "It automatically migrates all legacy data into a separate AI database."
+      }
+    ],
+    "correctAnswer": "b"
+  },
+  {
+    "question": "What does headless mean in the context of Salesforce?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Building integrations without using APIs"
+      },
+      {
+        "id": "b",
+        "text": "Running an AI model that does not require customer data"
+      },
+      {
+        "id": "c",
+        "text": "Replacing the Salesforce Platform with third-party tools"
+      },
+      {
+        "id": "d",
+        "text": "Decoupling backend intelligence from any fixed UI or screen"
+      }
+    ],
+    "correctAnswer": "d"
+  },
+  {
+    "question": "What do ADLC (Agent Development Lifecycle) Skills enable developers to do?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Allow business users to design custom mobile apps."
+      },
+      {
+        "id": "b",
+        "text": "Require developers to log in to Salesforce to write code."
+      },
+      {
+        "id": "c",
+        "text": "Enable coding agents to build and test agents directly from an IDE."
+      },
+      {
+        "id": "d",
+        "text": "Replace the need for the Salesforce Trust Layer."
+      }
+    ],
+    "correctAnswer": "c"
+  },
+  {
+    "question": "What’s the Context Gap that AI agents face?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Agents cannot access the internet."
+      },
+      {
+        "id": "b",
+        "text": "Agents lack access to trusted, unified customer data and workflows."
+      },
+      {
+        "id": "c",
+        "text": "Agents are too expensive to run."
+      },
+      {
+        "id": "d",
+        "text": "Agents do not understand different languages."
+      }
+    ],
+    "correctAnswer": "b"
+  },
+  {
+    "question": "Why do custom integrations connecting external agents to Salesforce frequently fail?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Salesforce does not have APIs."
+      },
+      {
+        "id": "b",
+        "text": "Building and maintaining custom integration glue is brittle and complex."
+      },
+      {
+        "id": "c",
+        "text": "External agents are not allowed to connect to databases."
+      },
+      {
+        "id": "d",
+        "text": "Developers prefer using standard Salesforce tools."
+      }
+    ],
+    "correctAnswer": "b"
+  },
+  {
+    "question": "What’s the key advantage of Salesforce Headless 360 compared to a do-it-yourself AI approach?",
+    "options": [
+      {
+        "id": "a",
+        "text": "It allows developers to create custom models from scratch."
+      },
+      {
+        "id": "b",
+        "text": "It requires all development to happen inside Salesforce tools."
+      },
+      {
+        "id": "c",
+        "text": "It limits integrations to Salesforce applications and services."
+      },
+      {
+        "id": "d",
+        "text": "It provides managed services with built-in governance and security."
+      }
+    ],
+    "correctAnswer": "d"
+  },
+  {
+    "question": "What’s the primary purpose of Cross-Cloud MCPs within Headless 360?",
+    "options": [
+      {
+        "id": "a",
+        "text": "To replace enterprise applications with Salesforce-native alternatives."
+      },
+      {
+        "id": "b",
+        "text": "To provide real-time monitoring of AI model performance metrics."
+      },
+      {
+        "id": "c",
+        "text": "To connect AI agents with trusted enterprise systems and services."
+      },
+      {
+        "id": "d",
+        "text": "To standardize user interfaces across every supported deployment surface."
+      }
+    ],
+    "correctAnswer": "c"
+  },
+  {
+    "question": "How does Agentforce Sales Coach help a sales rep prepare for meetings with prospects?",
+    "options": [
+      {
+        "id": "a",
+        "text": "It helps them schedule time with their manager to get guidance."
+      },
+      {
+        "id": "b",
+        "text": "It allows reps to practice pitches before they meet with prospective buyers."
+      },
+      {
+        "id": "c",
+        "text": "It searches the web for little-known facts about potential customers so they’re prepared for small talk."
+      },
+      {
+        "id": "d",
+        "text": "It helps them with coverage when they’re short-staffed."
+      }
+    ],
+    "correctAnswer": "b"
+  },
+  {
+    "question": "What are three out-of-the-box features of Agentforce Sales Coach?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Agentforce Studio, Einstein Generative AI, and prompts"
+      },
+      {
+        "id": "b",
+        "text": "Subagents, actions, and prompts"
+      },
+      {
+        "id": "c",
+        "text": "Prompts, prompt templates, and roles"
+      },
+      {
+        "id": "d",
+        "text": "Actions, prompts, and Einstein Generative AI"
+      }
+    ],
+    "correctAnswer": "b"
+  },
+  {
+    "question": "Where does Agentforce Sales Coach exist within your Salesforce org?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Lead Record Page"
+      },
+      {
+        "id": "b",
+        "text": "Sales Record Page"
+      },
+      {
+        "id": "c",
+        "text": "App Builder Page"
+      },
+      {
+        "id": "d",
+        "text": "Opportunity Record Page"
+      }
+    ],
+    "correctAnswer": "d"
+  },
+  {
+    "question": "True or false: Your Agentforce Sales Coach operates as a user in Salesforce.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True"
+      },
+      {
+        "id": "b",
+        "text": "False"
+      }
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "True or false: Using the preposition “within” helps the prompt model to understand scope or boundaries.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True"
+      },
+      {
+        "id": "b",
+        "text": "False"
+      }
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "Which of these is a key feature that’s used to customize Sales Coach?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Lists"
+      },
+      {
+        "id": "b",
+        "text": "Actions"
+      },
+      {
+        "id": "c",
+        "text": "Terminology"
+      },
+      {
+        "id": "d",
+        "text": "Performance"
+      }
+    ],
+    "correctAnswer": "c"
+  },
+  {
+    "question": "What’s a key feature of Service Assistant that helps service reps manage their workload more effectively?",
+    "options": [
+      {
+        "id": "a",
+        "text": "It automatically books travel arrangements for customers."
+      },
+      {
+        "id": "b",
+        "text": "It provides real-time weather updates for travel destinations."
+      },
+      {
+        "id": "c",
+        "text": "It offers quick summaries and step-by-step resolution guidance for cases."
+      },
+      {
+        "id": "d",
+        "text": "It translates customer messages into multiple languages."
+      }
+    ],
+    "correctAnswer": "c"
+  },
+  {
+    "question": "Why is grounding Service Assistant important?",
+    "options": [
+      {
+        "id": "a",
+        "text": "It allows Service Assistant to predict the next best action."
+      },
+      {
+        "id": "b",
+        "text": "It allows Service Assistant to use historical case data to create a service plan."
+      },
+      {
+        "id": "c",
+        "text": "It ensures Service Assistant is compliant with your company’s service policies and practices."
+      },
+      {
+        "id": "d",
+        "text": "It allows Service Assistant to autonomously resolve customer issues without human intervention."
+      }
+    ],
+    "correctAnswer": "c"
+  },
+  {
+    "question": "What does Service Assistant provide service reps when the Case is first opened?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A detailed service plan"
+      },
+      {
+        "id": "b",
+        "text": "A list of similar cases from the past year."
+      },
+      {
+        "id": "c",
+        "text": "Links to related knowledge articles"
+      },
+      {
+        "id": "d",
+        "text": "A case summary and summary steps"
+      }
+    ],
+    "correctAnswer": "d"
+  },
+  {
+    "question": "You’re on the Help with Travel Documentation case page and notice that Service Assistant has generated a summary and summary steps. What should you do to view a more detailed step-by-step resolution guide for the case?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Submit the case to a manager for approval."
+      },
+      {
+        "id": "b",
+        "text": "Edit the case details and add more information."
+      },
+      {
+        "id": "c",
+        "text": "Click the Draft Plan button in the Service Assistant component."
+      },
+      {
+        "id": "d",
+        "text": "Close the case and reopen it after 10 minutes."
+      }
+    ],
+    "correctAnswer": "c"
+  },
+  {
+    "question": "What allows Agentforce to solve domain-specific customer problems?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Agents build themselves"
+      },
+      {
+        "id": "b",
+        "text": "Certified integration partners"
+      },
+      {
+        "id": "c",
+        "text": "Mulesoft connectors"
+      },
+      {
+        "id": "d",
+        "text": "Defined roles in Industries Clouds"
+      }
+    ],
+    "correctAnswer": "d"
+  },
+  {
+    "question": "What are the basic building blocks of Agentforce?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Intelligent question generators"
+      },
+      {
+        "id": "b",
+        "text": "Topics, actions, and instructions"
+      },
+      {
+        "id": "c",
+        "text": "Trust Layer, Data 360, and Platform"
+      },
+      {
+        "id": "d",
+        "text": "Copilot and Prompt Builder"
+      }
+    ],
+    "correctAnswer": "b"
+  },
+  {
+    "question": "How can Agentforce for Financial Services help organizations maintain regulatory confidence and trust?",
+    "options": [
+      {
+        "id": "a",
+        "text": "By increasing the number of mandatory manual reviews"
+      },
+      {
+        "id": "b",
+        "text": "By relaxing compliance rules to speed up processes"
+      },
+      {
+        "id": "c",
+        "text": "By ensuring agents follow the same rules, approvals, disclosures, and audit trails as employees"
+      },
+      {
+        "id": "d",
+        "text": "By using the Compliance Assistance template"
+      }
+    ],
+    "correctAnswer": "c"
+  },
+  {
+    "question": "How can Agentforce improve client relationships in financial services?",
+    "options": [
+      {
+        "id": "a",
+        "text": "By increasing the administrative burden on financial professionals"
+      },
+      {
+        "id": "b",
+        "text": "By reducing the need for service rep interaction and increasing customer wait times"
+      },
+      {
+        "id": "c",
+        "text": "By eliminating the need for compliance and regulations"
+      },
+      {
+        "id": "d",
+        "text": "By handling routine tasks, so that financial professionals focus on deepening customer relationships"
+      }
+    ],
+    "correctAnswer": "d"
+  },
+  {
+    "question": "Which Agentforce template helps relationship managers automate the tasks after a client meeting?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Banking Service Assistance"
+      },
+      {
+        "id": "b",
+        "text": "Loan Product Assistance"
+      },
+      {
+        "id": "c",
+        "text": "Financial Advisor Assistance"
+      },
+      {
+        "id": "d",
+        "text": "Banking Relationship Assistance"
+      }
+    ],
+    "correctAnswer": "d"
+  },
+  {
+    "question": "Which one of these tasks does the Banking Service Employee Assistance agent handle?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Automating meeting wrap-ups for financial advisors"
+      },
+      {
+        "id": "b",
+        "text": "Creating detailed client portfolio analyses for bankers"
+      },
+      {
+        "id": "c",
+        "text": "Automating common tasks for retail banking service reps"
+      },
+      {
+        "id": "d",
+        "text": "Guiding borrowers through loan applications"
+      }
+    ],
+    "correctAnswer": "c"
+  },
+  {
+    "question": "How do service reps benefit from agents built with the Banking Service Assistance template?",
+    "options": [
+      {
+        "id": "a",
+        "text": "They spend more time searching through customer data."
+      },
+      {
+        "id": "b",
+        "text": "They avoid complex customer cases and handle only basic issues."
+      },
+      {
+        "id": "c",
+        "text": "They resolve customer issues quickly, so the reps can focus on complex problems."
+      },
+      {
+        "id": "d",
+        "text": "They increase wait times for customers who call support."
+      }
+    ],
+    "correctAnswer": "c"
+  },
+  {
+    "question": "Which piece of information does a Loan Product Assistance agent provide to potential borrowers?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A loan officer's email address and phone number"
+      },
+      {
+        "id": "b",
+        "text": "Comparisons of products provided by different lenders"
+      },
+      {
+        "id": "c",
+        "text": "Historical data about past borrowers"
+      },
+      {
+        "id": "d",
+        "text": "Available loan types and loan amount estimates"
+      }
+    ],
+    "correctAnswer": "d"
+  }
+]

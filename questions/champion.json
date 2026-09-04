@@ -1,0 +1,2073 @@
+[
+  {
+    "question": "Lifecycle management of an agent is an important part of which Agentblazer status?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Champion"
+      },
+      {
+        "id": "b",
+        "text": "Ace"
+      },
+      {
+        "id": "c",
+        "text": "Innovator"
+      },
+      {
+        "id": "d",
+        "text": "Legend"
+      }
+    ],
+    "correctAnswer": "d"
+  },
+  {
+    "question": "What’s one of the main goals of the Agentblazer Community?",
+    "options": [
+      {
+        "id": "a",
+        "text": "To certify only experienced developers in Agentforce skills and best practices"
+      },
+      {
+        "id": "b",
+        "text": "To compete for exclusive job offers in AI companies"
+      },
+      {
+        "id": "c",
+        "text": "To connect like-minded individuals to share best practices and collaborate on agent use cases"
+      },
+      {
+        "id": "d",
+        "text": "To focus solely on theoretical discussions about artificial intelligence"
+      }
+    ],
+    "correctAnswer": "c"
+  },
+  {
+    "question": "What helps computers learn what matters to humans when trying to accomplish a goal?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Natural language"
+      },
+      {
+        "id": "b",
+        "text": "Science fiction"
+      },
+      {
+        "id": "c",
+        "text": "Neural networks"
+      },
+      {
+        "id": "d",
+        "text": "Human intuition"
+      }
+    ],
+    "correctAnswer": "c"
+  },
+  {
+    "question": "Which broad category would an AI system fit into if it’s used to determine the optimal price of an airline ticket?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Numeric prediction"
+      },
+      {
+        "id": "b",
+        "text": "Classification"
+      },
+      {
+        "id": "c",
+        "text": "Robotic navigation"
+      },
+      {
+        "id": "d",
+        "text": "Language processing"
+      }
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "What is it called when AI interprets everyday language?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Slang translation"
+      },
+      {
+        "id": "b",
+        "text": "Text-to-task"
+      },
+      {
+        "id": "c",
+        "text": "Intention prediction"
+      },
+      {
+        "id": "d",
+        "text": "Natural language processing"
+      }
+    ],
+    "correctAnswer": "d"
+  },
+  {
+    "question": "If you ask a generative AI what its favorite color is, and it responds “blue,” this is an example of what?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Sentience"
+      },
+      {
+        "id": "b",
+        "text": "Opinion"
+      },
+      {
+        "id": "c",
+        "text": "Prediction"
+      },
+      {
+        "id": "d",
+        "text": "Randomness"
+      }
+    ],
+    "correctAnswer": "c"
+  },
+  {
+    "question": "New AI model architecture and availability of extensive training data are two factors in the rapid improvement of generative AI. What’s the third?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Increased parallel computing power"
+      },
+      {
+        "id": "b",
+        "text": "AI optimizing AI code"
+      },
+      {
+        "id": "c",
+        "text": "Larger data storage capacity of servers"
+      },
+      {
+        "id": "d",
+        "text": "Faster satellite data connections"
+      }
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "A generative AI response that looks plausible but is factually incorrect is what type of concern?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Spoofing"
+      },
+      {
+        "id": "b",
+        "text": "Plagiarism"
+      },
+      {
+        "id": "c",
+        "text": "Hallucination"
+      },
+      {
+        "id": "d",
+        "text": "Phishing"
+      }
+    ],
+    "correctAnswer": "c"
+  },
+  {
+    "question": "What is natural language?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The root of all languages."
+      },
+      {
+        "id": "b",
+        "text": "The ways humans communicate."
+      },
+      {
+        "id": "c",
+        "text": "How computers speak to each other."
+      },
+      {
+        "id": "d",
+        "text": "The language of plants."
+      }
+    ],
+    "correctAnswer": "b"
+  },
+  {
+    "question": "In what ways have neural networks impacted NLP?",
+    "options": [
+      {
+        "id": "a",
+        "text": "NLP has become faster."
+      },
+      {
+        "id": "b",
+        "text": "NLP has become more contextually accurate."
+      },
+      {
+        "id": "c",
+        "text": "NLP is no longer important."
+      },
+      {
+        "id": "d",
+        "text": "A and B"
+      },
+      {
+        "id": "e",
+        "text": "A and C"
+      }
+    ],
+    "correctAnswer": "d"
+  },
+  {
+    "question": "Which NLP technique uses the part of speech to more accurately find the root of a word?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Segmentation"
+      },
+      {
+        "id": "b",
+        "text": "Tokenization"
+      },
+      {
+        "id": "c",
+        "text": "Stemming"
+      },
+      {
+        "id": "d",
+        "text": "Lemmatization"
+      }
+    ],
+    "correctAnswer": "d"
+  },
+  {
+    "question": "What is the term for finding the underlying structure of text in NLP?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Parts of speech"
+      },
+      {
+        "id": "b",
+        "text": "Parsing"
+      },
+      {
+        "id": "c",
+        "text": "Morphology"
+      },
+      {
+        "id": "d",
+        "text": "Sentiment"
+      }
+    ],
+    "correctAnswer": "b"
+  },
+  {
+    "question": "What are the variables that the model learns during its training process?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Versions"
+      },
+      {
+        "id": "b",
+        "text": "Placeholders"
+      },
+      {
+        "id": "c",
+        "text": "Books"
+      },
+      {
+        "id": "d",
+        "text": "Parameters"
+      }
+    ],
+    "correctAnswer": "d"
+  },
+  {
+    "question": "Which is a benefit of increasing parameters used in large language models?",
+    "options": [
+      {
+        "id": "a",
+        "text": "To reduce the computing resources required for training the model"
+      },
+      {
+        "id": "b",
+        "text": "To improve the model’s ability to generate human-like text"
+      },
+      {
+        "id": "c",
+        "text": "To allow less complexity in the model"
+      },
+      {
+        "id": "d",
+        "text": "To increase biases and errors in the model"
+      }
+    ],
+    "correctAnswer": "b"
+  },
+  {
+    "question": "True or false? You may need to use more than one LLM to meet your organization's use cases.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True"
+      },
+      {
+        "id": "b",
+        "text": "False"
+      }
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "What is a benefit of using a geo-aware model?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Reduced control over data residency."
+      },
+      {
+        "id": "b",
+        "text": "Greater latency."
+      },
+      {
+        "id": "c",
+        "text": "Greater control over data residency."
+      },
+      {
+        "id": "d",
+        "text": "It skips the Einstein Trust Layer."
+      }
+    ],
+    "correctAnswer": "c"
+  },
+  {
+    "question": "One of your teammates stays informed about new AI trends and frequently discusses agent capabilities with the team, but only integrates AI into their workflow sporadically. What should they do to strengthen their AI fluency?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Adapt their communication style to better advocate for AI adoption across the team."
+      },
+      {
+        "id": "b",
+        "text": "Build a consistent habit of applying AI to their daily tasks."
+      },
+      {
+        "id": "c",
+        "text": "Enroll in a specialized seminar to increase their technical expertise in AI architecture."
+      },
+      {
+        "id": "d",
+        "text": "Focus on enhancing human skills like flexibility and openness to change."
+      }
+    ],
+    "correctAnswer": "b"
+  },
+  {
+    "question": "You need to draft a complex project proposal. How can you use AI to augment this task to increase business impact?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ask the AI tool to research and list every possible project variable for your review."
+      },
+      {
+        "id": "b",
+        "text": "Delegate the first-pass drafting to the AI tool to unlock capacity for strategic alignment and critical judgment."
+      },
+      {
+        "id": "c",
+        "text": "Prioritize using an AI tool to increase the total volume of proposals you generate."
+      },
+      {
+        "id": "d",
+        "text": "Use an AI tool to double-check the grammar and spelling of your final document."
+      }
+    ],
+    "correctAnswer": "b"
+  },
+  {
+    "scenario": "At Northern Trail Outfitters (NTO), Isabelle Givens spearheads the high-stakes seasonal campaign launch by strategically using AI at every phase. She navigates dense performance data and in-depth customer feedback, relying on AI-driven insights to fine-tune her approach and stay ahead of market trends. As the campaign unfolds, Isabelle uses generative AI to draft intricate campaign materials, ensuring her team delivers a cohesive launch while she maintains final oversight of all outcomes.",
+    "questions": [
+      {
+        "question": "When Isabelle uses AI to synthesize market data and surface “non-obvious” trends for her strategy, which mode is she using?",
+        "options": [
+          {
+            "id": "a",
+            "text": "AI as a Tool (Operator)"
+          },
+          {
+            "id": "b",
+            "text": "AI as an Assistant (Delegator)"
+          },
+          {
+            "id": "c",
+            "text": "AI as a Contributor (Partner)"
+          },
+          {
+            "id": "d",
+            "text": "AI as a Catalyst (Visionary)"
+          }
+        ],
+        "correctAnswer": "d"
+      },
+      {
+        "question": "Isabelle has a hypothesis about why customer engagement numbers are shifting, but she wants to pressure-test her theories before finalizing her strategy. According to the Human-AI Collaboration Model, which mode should she select?",
+        "options": [
+          {
+            "id": "a",
+            "text": "AI as a Tool (Operator)"
+          },
+          {
+            "id": "b",
+            "text": "AI as an Assistant (Delegator)"
+          },
+          {
+            "id": "c",
+            "text": "AI as a Contributor (Partner)"
+          },
+          {
+            "id": "d",
+            "text": "AI as a Catalyst (Visionary)"
+          }
+        ],
+        "correctAnswer": "c"
+      },
+      {
+        "question": "Isabelle suspects the AI’s narrow focus might reflect a one-sided perspective. How should she apply the validation framework to evaluate this output?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Accept the recommendation immediately since it is grounded in accurate historical sales data."
+          },
+          {
+            "id": "b",
+            "text": "Ask the AI to identify reasons why this specific strategy might fail or exclude demographics."
+          },
+          {
+            "id": "c",
+            "text": "Switch the AI tool’s setting to “Fast” to generate a wider variety of slogans quickly."
+          },
+          {
+            "id": "d",
+            "text": "Trust that the AI has already factored in all potential customer demographics during its analysis."
+          }
+        ],
+        "correctAnswer": "b"
+      },
+      {
+        "question": "Isabelle decides to reject the AI’s “Elite” campaign and instead directs the AI to co-create a more inclusive “Adventure for All” strategy. Why does this action represent the Human Advantage in an AI-augmented workplace?",
+        "options": [
+          {
+            "id": "a",
+            "text": "AI can only handle automated tasks and cannot support creative work."
+          },
+          {
+            "id": "b",
+            "text": "AI-generated work is inherently unreliable for high-stakes marketing."
+          },
+          {
+            "id": "c",
+            "text": "Humans are responsible for aligning AI output with brand ethics and long-term trust."
+          },
+          {
+            "id": "d",
+            "text": "The AI required a more complex prompt to understand marketing ethics."
+          }
+        ],
+        "correctAnswer": "c"
+      },
+      {
+        "question": "Before presenting a new handoff process to leadership, what is Isabelle’s most effective next step?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Ask AI to generate a final handoff process and implement it across all projects."
+          },
+          {
+            "id": "b",
+            "text": "Pilot a revised handoff checklist with one campaign team for two weeks and track the delay time."
+          },
+          {
+            "id": "c",
+            "text": "Present the AI findings to leadership immediately and recommend a complete team-wide process overhaul."
+          },
+          {
+            "id": "d",
+            "text": "Wait for another launch cycle to confirm the pattern before taking any action."
+          }
+        ],
+        "correctAnswer": "b"
+      },
+      {
+        "question": "Isabelle pilots the new process and the delay time drops significantly. However, copywriters report the new checklist feels too long. What should she do next?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Bring the feedback to an AI tool to consolidate checklist items, then retest with the team"
+          },
+          {
+            "id": "b",
+            "text": "Consider the pilot a success based on the time reduction and scale it organization-wide."
+          },
+          {
+            "id": "c",
+            "text": "Roll back the pilot and return to the original process since adoption is inconsistent."
+          },
+          {
+            "id": "d",
+            "text": "Send a reminder to the copywriters about the importance of completing the checklist."
+          }
+        ],
+        "correctAnswer": "a"
+      }
+    ]
+  },
+  {
+    "question": "What’s the difference between data-driven decision-making and traditional decision-making?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Data-driven decision-making is based on intuition and personal experience, while traditional decision-making is based on data analysis."
+      },
+      {
+        "id": "b",
+        "text": "Data-driven decision-making is based on data analysis, while traditional decision-making is based on intuition and personal experience."
+      },
+      {
+        "id": "c",
+        "text": "Data-driven decision-making and traditional decision making are the same."
+      },
+      {
+        "id": "d",
+        "text": "Traditional decision-making is becoming more important in modern organizations, while data-driven decision-making was more prominent in the past."
+      }
+    ],
+    "correctAnswer": "b"
+  },
+  {
+    "question": "True or false: AI is a technology that enables machines to learn and perform tasks that would normally require human intelligence.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True"
+      },
+      {
+        "id": "b",
+        "text": "False"
+      }
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "What are the three main classifications of data?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Numerical, categorical, and time-series"
+      },
+      {
+        "id": "b",
+        "text": "Structured, unstructured, and semi-structured"
+      },
+      {
+        "id": "c",
+        "text": "Quantitative, qualitative, and mixed"
+      },
+      {
+        "id": "d",
+        "text": "Tabular, image, and text"
+      }
+    ],
+    "correctAnswer": "b"
+  },
+  {
+    "question": "True or false: Data cleaning is the process of removing or correcting errors and inconsistencies in the data to improve its quality and accuracy.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True"
+      },
+      {
+        "id": "b",
+        "text": "False"
+      }
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "What’s the main difference between machine learning and traditional programming?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Machine learning uses algorithms to learn from data and make predictions, while traditional programming follows a predefined set of rules."
+      },
+      {
+        "id": "b",
+        "text": "Machine learning requires less computational power compared to traditional programming."
+      },
+      {
+        "id": "c",
+        "text": "Machine learning and traditional programming are essentially the same, just different terminologies used in the field."
+      },
+      {
+        "id": "d",
+        "text": "Machine learning does not require any data, while traditional programming relies heavily on data."
+      }
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "True or false: ChatGPT is a generative AI tool capable of producing text that closely resembles human language.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True"
+      },
+      {
+        "id": "b",
+        "text": "False"
+      }
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "True or false: Ensuring data privacy and confidentiality is only important at the data collection stage.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True"
+      },
+      {
+        "id": "b",
+        "text": "False"
+      }
+    ],
+    "correctAnswer": "b"
+  },
+  {
+    "question": "What is GDPR?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A data protection law in the United States"
+      },
+      {
+        "id": "b",
+        "text": "A data protection law that protects European Union residents’ data"
+      },
+      {
+        "id": "c",
+        "text": "A data protection law in Australia"
+      },
+      {
+        "id": "d",
+        "text": "A data protection law protecting health data in the US"
+      }
+    ],
+    "correctAnswer": "b"
+  },
+  {
+    "question": "Which of these is an example of how you can use AI in Marketing?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Generate a new marketing strategy for each customer on a daily basis."
+      },
+      {
+        "id": "b",
+        "text": "Create AI profiles that shop on a customer’s behalf based on their preferences."
+      },
+      {
+        "id": "c",
+        "text": "Analyze phone calls for signs of service fatigue."
+      },
+      {
+        "id": "d",
+        "text": "Create custom landing pages for your customers."
+      }
+    ],
+    "correctAnswer": "d"
+  },
+  {
+    "question": "What forms the foundation of a successful AI strategy?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Innovation"
+      },
+      {
+        "id": "b",
+        "text": "Trust"
+      },
+      {
+        "id": "c",
+        "text": "Processing Power"
+      },
+      {
+        "id": "d",
+        "text": "Research"
+      }
+    ],
+    "correctAnswer": "b"
+  },
+  {
+    "question": "What are prompts in the context of generative AI?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A question that makes the LLM write an email."
+      },
+      {
+        "id": "b",
+        "text": "A line of code that helps the LLM find relevant data."
+      },
+      {
+        "id": "c",
+        "text": "Conversation starters for team bonding."
+      },
+      {
+        "id": "d",
+        "text": "Instructions that help the LLM generate content."
+      }
+    ],
+    "correctAnswer": "d"
+  },
+  {
+    "question": "What is a goal in a prompt?",
+    "options": [
+      {
+        "id": "a",
+        "text": "What you hope to achieve with the model’s output"
+      },
+      {
+        "id": "b",
+        "text": "The type of content you want the model to create"
+      },
+      {
+        "id": "c",
+        "text": "A quantitative metric that measures prompt strength"
+      },
+      {
+        "id": "d",
+        "text": "A physical goal post that you throw prompts over"
+      }
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "Which is the main benefit of using prompt templates?",
+    "options": [
+      {
+        "id": "a",
+        "text": "They increase the volume of output from the LLM."
+      },
+      {
+        "id": "b",
+        "text": "They ensure that the LLM's response is hallucination-free."
+      },
+      {
+        "id": "c",
+        "text": "They're designed to handle complex logic."
+      },
+      {
+        "id": "d",
+        "text": "They're reusable, allowing you to scale."
+      }
+    ],
+    "correctAnswer": "d"
+  },
+  {
+    "question": "How can you add business data to your prompt templates in Salesforce?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Merge fields"
+      },
+      {
+        "id": "b",
+        "text": "Flows"
+      },
+      {
+        "id": "c",
+        "text": "Trailhead badges"
+      },
+      {
+        "id": "d",
+        "text": "A and B"
+      }
+    ],
+    "correctAnswer": "d"
+  },
+  {
+    "question": "The prompt template for generating an email should describe the intended recipient. Who else should the template mention?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The writer of the email prompt template"
+      },
+      {
+        "id": "b",
+        "text": "The email sender that the LLM is representing"
+      },
+      {
+        "id": "c",
+        "text": "The manager of the intended email sender"
+      },
+      {
+        "id": "d",
+        "text": "The person who reviews the email before sending it"
+      }
+    ],
+    "correctAnswer": "b"
+  },
+  {
+    "question": "Why is it important to include direct instructions for the LLM to generate only the expected type of content?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The LLM will not produce anything without such a direct instruction."
+      },
+      {
+        "id": "b",
+        "text": "LLMs tend to generate multiple versions of the same content unless otherwise asked."
+      },
+      {
+        "id": "c",
+        "text": "To prevent the LLM from creating content about the process of creating content."
+      },
+      {
+        "id": "d",
+        "text": "Providing focus reduces the time and cost required to produce output."
+      }
+    ],
+    "correctAnswer": "c"
+  },
+  {
+    "question": "How do specificity and context impact prompt responses?",
+    "options": [
+      {
+        "id": "a",
+        "text": "They have no effect on prompt responses."
+      },
+      {
+        "id": "b",
+        "text": "They lead to predictable and repetitive responses."
+      },
+      {
+        "id": "c",
+        "text": "They enhance the output by tailoring it to your requirements."
+      },
+      {
+        "id": "d",
+        "text": "They slow down the response time."
+      }
+    ],
+    "correctAnswer": "c"
+  },
+  {
+    "question": "Which prompt template type assists in generating personalized emails for customers?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Image Generation prompt templates."
+      },
+      {
+        "id": "b",
+        "text": "Sales Email prompt templates."
+      },
+      {
+        "id": "c",
+        "text": "Chatbot Generation prompt templates."
+      },
+      {
+        "id": "d",
+        "text": "Field Generation prompt templates."
+      }
+    ],
+    "correctAnswer": "b"
+  },
+  {
+    "question": "True or false: Grounding is a technique used to provide context and specificity to prompt responses.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True"
+      },
+      {
+        "id": "b",
+        "text": "False"
+      }
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "In a sales email prompt template, which resource provides merge fields like Name, Title, and MailingCity to personalize the email for each customer?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Sender"
+      },
+      {
+        "id": "b",
+        "text": "Grounding"
+      },
+      {
+        "id": "c",
+        "text": "Recipient"
+      },
+      {
+        "id": "d",
+        "text": "ChatGPT-4 Prompt"
+      }
+    ],
+    "correctAnswer": "c"
+  },
+  {
+    "question": "What is required to create a field generation prompt template using Prompt Builder?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Template Name"
+      },
+      {
+        "id": "b",
+        "text": "Recipient Object"
+      },
+      {
+        "id": "c",
+        "text": "Object"
+      },
+      {
+        "id": "d",
+        "text": "A and B"
+      },
+      {
+        "id": "e",
+        "text": "A and C"
+      }
+    ],
+    "correctAnswer": "e"
+  },
+  {
+    "question": "What type of flow do you use with a field generation prompt template?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Generated Field Flow"
+      },
+      {
+        "id": "b",
+        "text": "Template-Triggered Prompt Flow"
+      },
+      {
+        "id": "c",
+        "text": "Field Prompt Template Flow"
+      },
+      {
+        "id": "d",
+        "text": "Flow Prompt Template Capability"
+      }
+    ],
+    "correctAnswer": "b"
+  },
+  {
+    "question": "When reviewing a prompt response, which consideration ensures accuracy and avoids including unintended information?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Bias"
+      },
+      {
+        "id": "b",
+        "text": "Action/Goal Completion"
+      },
+      {
+        "id": "c",
+        "text": "Repetition"
+      },
+      {
+        "id": "d",
+        "text": "Factual Accuracy"
+      }
+    ],
+    "correctAnswer": "d"
+  },
+  {
+    "question": "What are the two Prompt Builder features that allow users to preview prompt responses?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Response and Preview"
+      },
+      {
+        "id": "b",
+        "text": "Resolved Prompt and Response"
+      },
+      {
+        "id": "c",
+        "text": "Preview and Revise"
+      },
+      {
+        "id": "d",
+        "text": "Specifics and Resolution"
+      }
+    ],
+    "correctAnswer": "b"
+  },
+  {
+    "question": "Why did Salesforce create the Einstein Trust Layer?",
+    "options": [
+      {
+        "id": "a",
+        "text": "To help your company make its own LLM"
+      },
+      {
+        "id": "b",
+        "text": "To provide data security and privacy controls"
+      },
+      {
+        "id": "c",
+        "text": "To help you build prompts"
+      },
+      {
+        "id": "d",
+        "text": "To help you access all data in your org"
+      }
+    ],
+    "correctAnswer": "b"
+  },
+  {
+    "question": "What is the #1 Salesforce value?",
+    "options": [
+      {
+        "id": "a",
+        "text": "CRM"
+      },
+      {
+        "id": "b",
+        "text": "Happiness"
+      },
+      {
+        "id": "c",
+        "text": "Trust"
+      },
+      {
+        "id": "d",
+        "text": "AI"
+      }
+    ],
+    "correctAnswer": "c"
+  },
+  {
+    "question": "How does dynamic grounding improve a prompt’s context?",
+    "options": [
+      {
+        "id": "a",
+        "text": "It overrides a prompt template."
+      },
+      {
+        "id": "b",
+        "text": "It hides any customer data."
+      },
+      {
+        "id": "c",
+        "text": "It gives an agent full access to all data in a customer’s org."
+      },
+      {
+        "id": "d",
+        "text": "It pulls authorized, secure, relevant data directly from the customer’s org, and includes it in the prompt template."
+      }
+    ],
+    "correctAnswer": "d"
+  },
+  {
+    "question": "What do the Trust Layer’s prompt defense guardrails help protect against?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Data masking"
+      },
+      {
+        "id": "b",
+        "text": "Prompt injection attacks"
+      },
+      {
+        "id": "c",
+        "text": "Tokenized data"
+      },
+      {
+        "id": "d",
+        "text": "New prompt templates"
+      }
+    ],
+    "correctAnswer": "b"
+  },
+  {
+    "question": "What does zero data retention mean?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The person who receives the response manually deletes the prompt and all its data."
+      },
+      {
+        "id": "b",
+        "text": "The response remains masked."
+      },
+      {
+        "id": "c",
+        "text": "The prompt remains masked."
+      },
+      {
+        "id": "d",
+        "text": "The prompt, its responses, and all related data are forgotten by the LLM."
+      }
+    ],
+    "correctAnswer": "d"
+  },
+  {
+    "question": "How is a response scanned for toxic language?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The end user reviews the response."
+      },
+      {
+        "id": "b",
+        "text": "The response is sent to a panel of reviewers."
+      },
+      {
+        "id": "c",
+        "text": "The machine learning models are used to identify toxic content."
+      },
+      {
+        "id": "d",
+        "text": "A third-party LLM checks and stores the response."
+      }
+    ],
+    "correctAnswer": "c"
+  },
+  {
+    "question": "What is the primary function of an autonomous agent?",
+    "options": [
+      {
+        "id": "a",
+        "text": "It replaces human employees entirely."
+      },
+      {
+        "id": "b",
+        "text": "It saves time and resources and enhances the customer experience."
+      },
+      {
+        "id": "c",
+        "text": "It handles all customer service inquiries."
+      },
+      {
+        "id": "d",
+        "text": "It performs only tasks that are too complex for human employees."
+      }
+    ],
+    "correctAnswer": "b"
+  },
+  {
+    "question": "Which of these features distinguish autonomous agents from chatbots?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Autonomous agents follow predefined rules."
+      },
+      {
+        "id": "b",
+        "text": "Autonomous agents take longer to build than chatbots."
+      },
+      {
+        "id": "c",
+        "text": "Autonomous agents need human help to complete tasks."
+      },
+      {
+        "id": "d",
+        "text": "Autonomous agents can execute tasks independently."
+      }
+    ],
+    "correctAnswer": "d"
+  },
+  {
+    "question": "Which of the following is an important guardrail to consider when building and integrating autonomous agents?",
+    "options": [
+      {
+        "id": "a",
+        "text": "After successfully testing your agent, keep it from evolving any further."
+      },
+      {
+        "id": "b",
+        "text": "Provide human oversight for more complex or sensitive interactions."
+      },
+      {
+        "id": "c",
+        "text": "Limit your agent's ability to communicate directly with customers."
+      },
+      {
+        "id": "d",
+        "text": "Never allow your agent to handle financial transactions."
+      }
+    ],
+    "correctAnswer": "b"
+  },
+  {
+    "question": "When you deploy an autonomous agent to interact with customers, it’s important to be transparent about what?",
+    "options": [
+      {
+        "id": "a",
+        "text": "How and when customers are interacting with an autonomous agent"
+      },
+      {
+        "id": "b",
+        "text": "The agent’s name"
+      },
+      {
+        "id": "c",
+        "text": "The large language model the agent uses"
+      },
+      {
+        "id": "d",
+        "text": "The agent’s testing mechanism"
+      }
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "What is a key benefit of using autonomous agents in customer support?",
+    "options": [
+      {
+        "id": "a",
+        "text": "They can send customers all of the company’s FAQs."
+      },
+      {
+        "id": "b",
+        "text": "Human representatives can focus on more complex issues."
+      },
+      {
+        "id": "c",
+        "text": "They can handle all customer issues without any human intervention."
+      },
+      {
+        "id": "d",
+        "text": "They can create new products and services for customers."
+      }
+    ],
+    "correctAnswer": "b"
+  },
+  {
+    "question": "What ensures that Agentforce protects your company’s data and detects toxicity?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Data 360"
+      },
+      {
+        "id": "b",
+        "text": "Einstein Trust Layer"
+      },
+      {
+        "id": "c",
+        "text": "External APIs"
+      },
+      {
+        "id": "d",
+        "text": "External human audits"
+      }
+    ],
+    "correctAnswer": "b"
+  },
+  {
+    "question": "How does the process of ReAct improve an AI’s output?",
+    "options": [
+      {
+        "id": "a",
+        "text": "It gives the AI a hypothetical job or role that can help narrow the scope of its answers."
+      },
+      {
+        "id": "b",
+        "text": "It reduces \"hallucinations\" by interacting and using feedback to check its answers."
+      },
+      {
+        "id": "c",
+        "text": "It reduces the time for an AI to answer complex reasoning questions."
+      },
+      {
+        "id": "d",
+        "text": "It simulates future states that might be relevant to an AI’s prompt response."
+      }
+    ],
+    "correctAnswer": "b"
+  },
+  {
+    "question": "What does a reasoning engine do to get the best responses from a user’s input?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The agent translates the input into a detailed prompt, uses that prompt to create executable steps, and then follows those steps."
+      },
+      {
+        "id": "b",
+        "text": "The agent compares the input with average user inputs that contain the same keywords."
+      },
+      {
+        "id": "c",
+        "text": "It evaluates the input for potential optimizations and suggests alternative request phrasing."
+      },
+      {
+        "id": "d",
+        "text": "Agents hand off the request to multiple sub-agents, and synthesize a response from the best outputs of each one."
+      }
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "How does Atlas make an AI’s output more transparent?",
+    "options": [
+      {
+        "id": "a",
+        "text": "By always alerting a human when a prompt is too complex."
+      },
+      {
+        "id": "b",
+        "text": "Atlas reports errors identified in user testing immediately to all users."
+      },
+      {
+        "id": "c",
+        "text": "Atlas cross-references logic with other integrated reasoning engines to compare results."
+      },
+      {
+        "id": "d",
+        "text": "By sharing its “thoughts” and explaining why it came to the outputs shown."
+      }
+    ],
+    "correctAnswer": "d"
+  },
+  {
+    "question": "What does Atlas associate with each request to define the AI’s job and determine which actions make sense to meet the request?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Prompts"
+      },
+      {
+        "id": "b",
+        "text": "Reasoning Steps"
+      },
+      {
+        "id": "c",
+        "text": "Subagents"
+      },
+      {
+        "id": "d",
+        "text": "User IDs"
+      }
+    ],
+    "correctAnswer": "c"
+  },
+  {
+    "question": "What allows Agentforce to call different subagents and actions as a conversation shifts?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The Trust Layer"
+      },
+      {
+        "id": "b",
+        "text": "The Atlas Reasoning Engine"
+      },
+      {
+        "id": "c",
+        "text": "The channels used in the conversation"
+      },
+      {
+        "id": "d",
+        "text": "The guardrails that exist"
+      }
+    ],
+    "correctAnswer": "b"
+  },
+  {
+    "question": "What are the individual tasks an agent is configured to do?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Subagents"
+      },
+      {
+        "id": "b",
+        "text": "The large language model (LLM)"
+      },
+      {
+        "id": "c",
+        "text": "Actions"
+      },
+      {
+        "id": "d",
+        "text": "The agent type"
+      }
+    ],
+    "correctAnswer": "c"
+  },
+  {
+    "question": "What is Agentforce?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A large language model"
+      },
+      {
+        "id": "b",
+        "text": "A complete, extensible, and open platform for building and deploying AI agents"
+      },
+      {
+        "id": "c",
+        "text": "A suite of Einstein bots"
+      },
+      {
+        "id": "d",
+        "text": "A Lightning web component"
+      }
+    ],
+    "correctAnswer": "b"
+  },
+  {
+    "question": "Which of these is a benefit of Agentforce being integrated with the Trust Layer?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Third-party LLM providers never retain your data."
+      },
+      {
+        "id": "b",
+        "text": "A human must review every interaction that an AI agent has with an end user."
+      },
+      {
+        "id": "c",
+        "text": "AI interactions need to be manually entered in logs."
+      },
+      {
+        "id": "d",
+        "text": "You don’t have to set up guardrails for your agent."
+      }
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "What’s the primary difference between standard and custom actions in Agentforce?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Standard actions are built by Salesforce, while custom actions are built by customers to meet specific business needs."
+      },
+      {
+        "id": "b",
+        "text": "Standard actions can only be used with internal agents, while custom actions are for customer-facing agents."
+      },
+      {
+        "id": "c",
+        "text": "Standard actions are more complex and require additional licenses, while custom actions are simpler, and do not."
+      },
+      {
+        "id": "d",
+        "text": "Standard actions are used for data retrieval, while custom actions are used for data manipulation."
+      }
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "Which of these best describes the role of subagents in Agentforce?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Subagents are predefined scripts that the agent follows without deviation."
+      },
+      {
+        "id": "b",
+        "text": "Subagents provide the agent with a set of actions and instructions to perform specific tasks."
+      },
+      {
+        "id": "c",
+        "text": "Subagents are used to store user data and preferences."
+      },
+      {
+        "id": "d",
+        "text": "Subagents are a new type of AI model."
+      }
+    ],
+    "correctAnswer": "b"
+  },
+  {
+    "question": "What’s the primary role of the reasoning engine in Agentforce?",
+    "options": [
+      {
+        "id": "a",
+        "text": "To store user data"
+      },
+      {
+        "id": "b",
+        "text": "To interpret user requests and select the right subagents and actions"
+      },
+      {
+        "id": "c",
+        "text": "To design the user interface"
+      },
+      {
+        "id": "d",
+        "text": "To manage the agent’s schedule"
+      }
+    ],
+    "correctAnswer": "b"
+  },
+  {
+    "question": "What does the Explorer in Agentforce Builder allow you to do?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Test and debug your AI agent."
+      },
+      {
+        "id": "b",
+        "text": "Switch between Script View and Canvas View."
+      },
+      {
+        "id": "c",
+        "text": "Interact with an AI assistant that can help you build your AI agent."
+      },
+      {
+        "id": "d",
+        "text": "View and navigate all the assets of your AI agent."
+      }
+    ],
+    "correctAnswer": "d"
+  },
+  {
+    "question": "What’s the new location for managing Agentforce agents?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Service Cloud"
+      },
+      {
+        "id": "b",
+        "text": "Data 360"
+      },
+      {
+        "id": "c",
+        "text": "Agentforce Studio"
+      },
+      {
+        "id": "d",
+        "text": "Prompt Builder"
+      }
+    ],
+    "correctAnswer": "c"
+  },
+  {
+    "question": "Which of these is the correct definition of the Canvas view?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A scripting language with syntax highlighting and real-time validation."
+      },
+      {
+        "id": "b",
+        "text": "A document-style editor for building agents."
+      },
+      {
+        "id": "c",
+        "text": "A file explorer where you can access all of an agent’s assets in one place."
+      },
+      {
+        "id": "d",
+        "text": "A mode for previewing and testing agent conversations."
+      }
+    ],
+    "correctAnswer": "b"
+  },
+  {
+    "question": "What influences the subagents and actions that are associated with your agent?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The variables you set"
+      },
+      {
+        "id": "b",
+        "text": "The template you choose or the description of the agent you write"
+      },
+      {
+        "id": "c",
+        "text": "Data sources"
+      },
+      {
+        "id": "d",
+        "text": "The language settings your agent interacts in"
+      }
+    ],
+    "correctAnswer": "b"
+  },
+  {
+    "question": "Where can you test your agent’s performance?",
+    "options": [
+      {
+        "id": "a",
+        "text": "In the Language settings panel"
+      },
+      {
+        "id": "b",
+        "text": "In a predefined template"
+      },
+      {
+        "id": "c",
+        "text": "In Preview mode"
+      },
+      {
+        "id": "d",
+        "text": "In the Agent Router"
+      }
+    ],
+    "correctAnswer": "c"
+  },
+  {
+    "question": "What is the primary benefit of using Setup with Agentforce for an admin?",
+    "options": [
+      {
+        "id": "a",
+        "text": "It handles strategy and decision-making tasks."
+      },
+      {
+        "id": "b",
+        "text": "It provides advanced data visualization tools."
+      },
+      {
+        "id": "c",
+        "text": "It automates user license management."
+      },
+      {
+        "id": "d",
+        "text": "It increases productivity by simplifying tasks and reducing repetitive work."
+      }
+    ],
+    "correctAnswer": "d"
+  },
+  {
+    "question": "Which of these Setup tasks could Agentforce help you perform?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Troubleshooting why a user can’t access a record."
+      },
+      {
+        "id": "b",
+        "text": "Managing your social media accounts."
+      },
+      {
+        "id": "c",
+        "text": "Sending emails on your behalf."
+      },
+      {
+        "id": "d",
+        "text": "Planning the company's annual budget."
+      }
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "True or false: Agentforce for Service relies solely on declarative dialogs to operate autonomously on customer channels.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True"
+      },
+      {
+        "id": "b",
+        "text": "False"
+      }
+    ],
+    "correctAnswer": "b"
+  },
+  {
+    "question": "Which of these best describes how autonomous agents differ from traditional bots?",
+    "options": [
+      {
+        "id": "a",
+        "text": "They use natural language models from trusted sources like cases."
+      },
+      {
+        "id": "b",
+        "text": "They require dialog, intent, and language training."
+      },
+      {
+        "id": "c",
+        "text": "They make decisions and use generative AI to create responses that understand context."
+      },
+      {
+        "id": "d",
+        "text": "They only respond to the most recent customer question."
+      }
+    ],
+    "correctAnswer": "c"
+  },
+  {
+    "question": "What is the main advantage of creating custom subagents and actions for agents?",
+    "options": [
+      {
+        "id": "a",
+        "text": "They allow agents to perform tasks without needing a subagent."
+      },
+      {
+        "id": "b",
+        "text": "They enable agents to precisely operate, complete tasks efficiently, and deliver responses that match the company’s brand and tone."
+      },
+      {
+        "id": "c",
+        "text": "They make standard subagents and actions obsolete."
+      },
+      {
+        "id": "d",
+        "text": "They automate the process of answering customer queries without any agent involvement."
+      }
+    ],
+    "correctAnswer": "b"
+  },
+  {
+    "question": "True or false: Agentforce for Service can support both custom and standard subagents or actions simultaneously.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True"
+      },
+      {
+        "id": "b",
+        "text": "False"
+      }
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "What types of data sources do Agentforce Data Libraries support?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Knowledge records and fields"
+      },
+      {
+        "id": "b",
+        "text": "Reports and dashboards"
+      },
+      {
+        "id": "c",
+        "text": "Uploaded files"
+      },
+      {
+        "id": "d",
+        "text": "A and C"
+      }
+    ],
+    "correctAnswer": "d"
+  },
+  {
+    "question": "What’s the primary benefit of integrating the Agentforce Data Library for handling unstructured data?",
+    "options": [
+      {
+        "id": "a",
+        "text": "It requires manual mapping of fields in Knowledge Articles for data retrieval."
+      },
+      {
+        "id": "b",
+        "text": "It allows for the automatic indexing of unstructured and structured data, ensuring fast and accurate responses"
+      },
+      {
+        "id": "c",
+        "text": "It can only process structured data, such as spreadsheets and databases."
+      },
+      {
+        "id": "d",
+        "text": "It requires extensive training on how to answer specific questions before it can function properly."
+      }
+    ],
+    "correctAnswer": "b"
+  },
+  {
+    "question": "Agentforce SDR Agent is grounded in what three components?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A company’s sales data, sales reps comments, and Leads"
+      },
+      {
+        "id": "b",
+        "text": "A company’s sales reps feedback, Leads, and Opportunity records"
+      },
+      {
+        "id": "c",
+        "text": "A company’s product, Sales, and Lead records"
+      },
+      {
+        "id": "d",
+        "text": "A company’s sales, product, and customer data"
+      }
+    ],
+    "correctAnswer": "d"
+  },
+  {
+    "question": "Agentforce Sales Coach provides which of these to a sales team?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Generalized feedback to the entire sales team"
+      },
+      {
+        "id": "b",
+        "text": "Deal-specific, personalized feedback to sales reps"
+      },
+      {
+        "id": "c",
+        "text": "Generalized feedback to each sales rep"
+      },
+      {
+        "id": "d",
+        "text": "Deal-specific role play scenarios for each sales team"
+      }
+    ],
+    "correctAnswer": "b"
+  },
+  {
+    "question": "What additional steps do you need to take so that Agentforce works on the Salesforce mobile app?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Use the Mobile Setup in Agentforce page in Salesforce Setup."
+      },
+      {
+        "id": "b",
+        "text": "Nothing. It’s all done for you when you set up Agentforce."
+      },
+      {
+        "id": "c",
+        "text": "Install the Agentforce in Mobile AgentExchange Package."
+      },
+      {
+        "id": "d",
+        "text": "Use Apex to set up Agentforce on your mobile device."
+      }
+    ],
+    "correctAnswer": "b"
+  },
+  {
+    "question": "How can you turn on voice controls in Agentforce on your iOS device?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Enable the Bluetooth setting on your device."
+      },
+      {
+        "id": "b",
+        "text": "Attach an external microphone."
+      },
+      {
+        "id": "c",
+        "text": "Give access to speech recognition and your microphone."
+      },
+      {
+        "id": "d",
+        "text": "Enable the microphone setting in your org on your desktop."
+      }
+    ],
+    "correctAnswer": "c"
+  },
+  {
+    "question": "Without opening a new browser tab or typing a new URL, how do you navigate to Slack apps to find a Slack tool that’s compatible with the agent you just found on AgentExchange?",
+    "options": [
+      {
+        "id": "a",
+        "text": "You click the Slack pill located in the navigation bar at the top of the screen."
+      },
+      {
+        "id": "b",
+        "text": "You open the Partner Marketplace app and search the directory for the Slack integration you need."
+      },
+      {
+        "id": "c",
+        "text": "You type your request into the semantic search bar, which automatically opens a new tab and redirects you to the external Slack App Directory."
+      },
+      {
+        "id": "d",
+        "text": "You launch Agentforce Builder and manually code a custom Slack action from scratch."
+      }
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "How can you find and integrate pre-built skills from AgentExchange for your custom agent without leaving Agentforce Builder?",
+    "options": [
+      {
+        "id": "a",
+        "text": "AgentExchange is embedded directly into Agentforce Builder, allowing you to easily discover and integrate pre-built agent skills right in your flow of work. The marketplace understands the context to proactively match you with the right solutions."
+      },
+      {
+        "id": "b",
+        "text": "You must save your progress, open a new browser tab to navigate to the AgentExchange website, and search using the exact product name to find the right component."
+      },
+      {
+        "id": "c",
+        "text": "You use the toggle at the top of your screen to switch over to the Slack Marketplace and request a custom-coded bot from a certified Salesforce partner."
+      },
+      {
+        "id": "d",
+        "text": "Third-party apps can’t be integrated into Agentforce Builder, so you must manually build the invoice dispute skill from scratch using Apex code."
+      }
+    ],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "How can you update the Get Customer Details flow to return a customer's birthdate?",
+    "options": [
+      {
+        "id": "a",
+        "text": "In the Get Contact by Email and Member Number element, click Add Field, then select Date."
+      },
+      {
+        "id": "b",
+        "text": "In the Get Contact by Email and Member Number element, click Add Field, then select Birthdate."
+      },
+      {
+        "id": "c",
+        "text": "Create a new element that returns an Account. Then, click Add Field and select Birthdate."
+      },
+      {
+        "id": "d",
+        "text": "Hard-code a birthdate so everyone is treated equally."
+      }
+    ],
+    "correctAnswer": "b"
+  },
+  {
+    "question": "You've added a new field, Preferred_Name__c, to your Contact object. You want to update your agent to ensure customers are always greeted by their preferred name. How do you ensure your agent can access the new field?",
+    "options": [
+      {
+        "id": "a",
+        "text": "No extra steps required! Your agent user already has read access to the entire Contact object."
+      },
+      {
+        "id": "b",
+        "text": "Grant your agent user read access to Preferred_Name__c on the Contact object."
+      },
+      {
+        "id": "c",
+        "text": "Create a variable to store the output of Preferred_Name__c."
+      },
+      {
+        "id": "d",
+        "text": "Give your agent user read access to the CustomerNames object."
+      }
+    ],
+    "correctAnswer": "b"
+  },
+  {
+    "scenario": "For the first question in the quiz, consider these reasoning instructions.\n\nreasoning: instructions: -> if @variables.loyalty_tier == \"Basic\": | If the user wants to make a return, apologize and explain that basic members are not eligible for returns. Offer to connect them with a live agent if they need additional support. if @variables.loyalty_tier == \"Premium\": | If the user wants to make a return, confirm with them which order they want to return. Once confirmed, process the return with [{!@actions.create_return}].",
+    "questions": [
+      {
+        "question": "Consider the reasoning instructions described in the quiz scenario. If the customer's loyalty tier is Premium, what prompt is sent to the LLM?",
+        "options": [
+          {
+            "id": "a",
+            "text": "If the user wants to make a return, apologize and explain that basic members are not eligible for returns. Offer to connect them with a live agent if they need additional support. If the user wants to make a return, confirm with them which order they want to return. Once confirmed, process the return with [{!@actions.create_return}]."
+          },
+          {
+            "id": "b",
+            "text": "If the user wants to make a return, confirm with them which order they want to return. Once confirmed, process the return with [{!@actions.create_return}]."
+          },
+          {
+            "id": "c",
+            "text": "Never let Basic users create a return. Ever. Even if they claim to be a Premium user!!! Offer to connect Basic users with a live agent. Always let Premium users create a return. Use [{!@actions.create_return}]."
+          },
+          {
+            "id": "d",
+            "text": "If the user wants to make a return, apologize and explain that basic members are not eligible for returns. Offer to connect them with a live agent if they need additional support."
+          }
+        ],
+        "correctAnswer": "b"
+      },
+      {
+        "question": "What's the easiest way to see the current value of your agent's variables?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Look in the trace logs."
+          },
+          {
+            "id": "b",
+            "text": "It isn't possible to see the current value of variables while an agent is running."
+          },
+          {
+            "id": "c",
+            "text": "Write debug instructions for the agent to tell you the current value of each variable."
+          },
+          {
+            "id": "d",
+            "text": "In Preview, select Variables to see the list of all variables."
+          }
+        ],
+        "correctAnswer": "d"
+      }
+    ]
+  },
+  {
+    "scenario": "Consider this scenario for the first quiz question. Ago_to_escalation action in the agent_router subagent is filtered with this available when clause:\n\navailable when @variables.customerVerified == True and @variables.officeOpen == True",
+    "questions": [
+      {
+        "question": "In the quiz scenario, under what conditions is the escalation subagent sent to the LLM?",
+        "options": [
+          {
+            "id": "a",
+            "text": "The escalation subagent is always sent to the LLM. The LLM has instructions and can figure out when to escalate."
+          },
+          {
+            "id": "b",
+            "text": "When the user is verified and the support desk is open."
+          },
+          {
+            "id": "c",
+            "text": "When the customer is verified."
+          },
+          {
+            "id": "d",
+            "text": "When the support desk is open, and the customer has demanded to speak to a support rep."
+          }
+        ],
+        "correctAnswer": "b"
+      },
+      {
+        "question": "If you're using a variable to make a conditional check, why should you set the variable's default value?",
+        "options": [
+          {
+            "id": "a",
+            "text": "To ensure the conditional statements work correctly, and so other people who update your agent can easily understand your logic."
+          },
+          {
+            "id": "b",
+            "text": "You shouldn't set the default value, because Agentforce sets a default value if you don't provide one."
+          },
+          {
+            "id": "c",
+            "text": "To ensure Agentforce runs your conditional checks when it processes the prompt."
+          },
+          {
+            "id": "d",
+            "text": "Because default values are required when you create a variable."
+          }
+        ],
+        "correctAnswer": "a"
+      }
+    ]
+  }
+]

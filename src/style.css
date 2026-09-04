@@ -1,0 +1,191 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: aliceblue;
+}
+
+.quiz-container {
+  width: 90%;
+  max-width: 700px;
+
+  height: 650px;
+  margin: 40px auto;
+
+  padding: 30px;
+
+  background: white;
+  border-radius: 12px;
+
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+
+  display: flex;
+  flex-direction: column;
+}
+
+#quiz {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  min-height: 0;
+}
+
+#question {
+  flex: 1;
+  overflow-y: auto;
+  padding-right: 10px;
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.navigation {
+  display: flex;
+
+  margin-top: 20px;
+  padding-top: 20px;
+
+  border-top: 1px solid #eee;
+  flex-shrink: 0;
+}
+
+.option {
+  display: block;
+  width: 100%;
+  padding: 15px;
+  margin-bottom: 10px;
+
+  border: 1px solid #ddd;
+  border-radius: 8px;
+
+  background: white;
+  cursor: pointer;
+
+  text-align: left;
+  font-size: 16px;
+}
+
+.option:hover {
+  background: #f0f0f0;
+}
+
+.option.selected {
+  border-color: #333;
+  background: #eee;
+}
+
+button {
+  padding: 12px 20px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+#next-button:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+.button_success {
+  color: white;
+  background-color: green;
+
+  &:hover {
+    background-color: green;
+  }
+}
+
+.button_error {
+  color: white;
+  background-color: red;
+
+  &:hover {
+    background-color: red;
+  }
+}
+
+.quiz-header {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+
+  padding: 20px;
+
+  background: white;
+
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.08);
+
+  position: sticky;
+  top: 0;
+  z-index: 10;
+}
+
+.trail-button {
+  width: 110px;
+  padding: 10px 18px;
+
+  border: 1px solid #ddd;
+  border-radius: 8px;
+
+  background: white;
+
+  cursor: pointer;
+
+  transition: 0.2s;
+}
+
+.trail-button:hover {
+  background: #f0f0f0;
+}
+
+.trail-button.active {
+  background: #333;
+  color: white;
+  border-color: #333;
+}
+
+.navigation {
+  display: flex;
+  gap: 20px;
+  align-items: center;
+  margin-top: 30px;
+  padding-top: 20px;
+  border-top: 1px solid #eee;
+}
+
+.navigation button {
+  min-width: 120px;
+  padding: 10px 18px;
+
+  border: 1px solid #ddd;
+  border-radius: 8px;
+
+  background: white;
+  color: #333;
+
+  cursor: pointer;
+  font-size: 15px;
+}
+
+.navigation button:hover:not(:disabled) {
+  background: #f5f5f5;
+}
+
+.navigation button:disabled {
+  opacity: 0.4;
+  cursor: not-allowed;
+}
+
+#next-button {
+  background: #333;
+  color: white;
+  border-color: #333;
+}
+
+#next-button:hover:not(:disabled) {
+  background: #222;
+}
