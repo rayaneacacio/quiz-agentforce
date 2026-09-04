@@ -9,3 +9,5 @@ $ yarn
 $ yarn dev
 
 ```
+
+node version 18.17.0
